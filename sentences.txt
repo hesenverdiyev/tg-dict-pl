@@ -1,0 +1,2054 @@
+•  zdarzyć się - baş vermək
+Coś dziwnego zdarzyło się w nocy. - Gecə qəribə bir şey baş verdi.
+•  pisać - yazmaq
+Piszę nową książkę o podróżach. - Mən səyahətlər haqqında yeni bir kitab yazıram.
+•  dostarczać - təmin etmək
+Firma dostarcza jedzenie codziennie. - Şirkət hər gün yeməyi təmin edir.
+•  usiąść - oturmaq
+Usiądź wygodnie na kanapie. - Divanda rahat otur.
+•  wstań - ayağa qalx
+Wstań i pomóż mi! - Ayağa qalx və mənə kömək et!
+•  zgubić - itirmək
+Zgubiłem klucze do domu. - Evimin açarını itirmişəm.
+•  przegrać - uduzmaq
+Przegraliśmy mecz wczoraj. - Dünən oyunu uduzduq.
+•  płacić - ödəmək
+Muszę płacić za rachunki. - Hesabları ödəməliyəm.
+•  spotykać - görüşmək
+Spotykamy się w parku o piątej. - Biz saat beşdə parkda görüşürük.
+•  obejmować - daxil edilmək
+Projekt obejmuje wiele różnych aspektów. - Layihə bir çox fərqli aspektləri əhatə edir.
+•  kontynuować - davam etmək
+Musimy kontynuować naszą pracę. - Biz işimizə davam etməliyik.
+•  ustawić - qurmaq
+Ustaw telewizor na stole. - Televizoru masanın üzərinə qur.
+•  uczyć się - öyrənmək
+Uczę się nowego języka. - Mən yeni bir dil öyrənirəm.
+•  zmieniać - dəyişmək
+Czasami trzeba zmieniać plany. - Bəzən planları dəyişmək lazım olur.
+•  prowadzić - idarə etmək
+On prowadzi własną firmę. - O, öz firmasını idarə edir.
+•  rozumieć - başa düşmək
+Nie rozumiem tego zadania. - Bu tapmacanı başa düşmürəm.
+•  oglądać - izləmək (film)
+Oglądamy film w kinie. - Biz kinoda film izləyirik.
+•  podążać - təqib etmək (yolu)
+Musisz podążać za tym znakiem. - Bu işarəni təqib etməlisən.
+•  przestać - dayandırmaq
+Przestań mówić tak głośno! - Belə yüksək danışmağı dayandır!
+•  tworzyć - yaratmaq
+Chcę tworzyć sztukę. - Mən incəsənət yaratmaq istəyirəm.
+•  mówić - danışmaq
+Lubię rozmawiać z przyjaciółmi. - Dostlarımla danışmağı sevirəm.
+•  język - dil
+Ucz się języka angielskiego. - İngilis dilini öyrən.
+•  czytać - oxumaq
+Lubię czytać książki w wolnym czasie. - Boş vaxtımda kitab oxumağı sevirəm.
+•  dodać - əlavə etmək
+Muszę dodać kilka uwag do raportu. - Mən hesabatıza bir neçə qeydlər əlavə etməliyəm.
+•  wydawać - xərcləmək
+Nie powinniśmy wydawać za dużo pieniędzy. - Biz çox pul xərcləməməliyik.
+•  rosnąć - böyümək (bitki)
+Moje kwiaty rosną bardzo szybko. - Mənim güllərim çox tez böyüyür.
+•  otworzyć - açmaq
+Możesz otworzyć okno, proszę. - Zəhmət olmasa, pəncərəni aç.
+•  chodzić - getmək
+Codziennie chodzę na spacery. - Hər gün gəzintiyə çıxıram.
+•  wygrać - udmaq
+Mam nadzieję, że wygramy ten mecz. - Ümid edirəm ki, bu oyunu udacağıq.
+•  pamiętać - xatırlamaq
+Pamiętaj o naszym spotkaniu w sobotę. - Şənbə günü görüşümüzü xatırla.
+•  zapominać - unutmaq
+Nie mogę zapomnieć o tym dniu. - O bu günü unutmağıma imkan yoxdur.
+•  kochać - sevmək
+Kocham spędzać czas z rodziną. - Ailəmizlə vaxt keçirməyi sevirəm.
+•  rozważać - nəzərə almaq
+Rozważam różne opcje przed podjęciem decyzji. - Qərar vermədən əvvəl müxtəlif variantları nəzərə alıram.
+•  naprawiać - təmir etmək
+Muszę naprawić mój komputer. - Kompüterimi təmir etməliyəm.
+•  pojawić się - peyda olmaq
+Zaczęło się pojawiać wiele nowych sklepów. - Bir çox yeni mağaza peyda olmağa başladı.
+•  kupić - almaq
+Chcę kupić nowy telefon. - Yeni telefon almaq istəyirəm.
+•  sprzedać - satmaq
+Sprzedaliśmy nasze stare meble. - Köhnə mebellərimizi satdıq.
+•  wynajmować - kirayələmək
+Wynajmujemy mieszkanie w centrum miasta. - Şəhərin mərkəzində mənzil kirayələyirik.
+•  czekać - gözləmək
+Muszę czekać na autobus. - Mən avtobusu gözləməliyəm.
+•  obsługiwać - xidmət etmək
+Ten kelner dobrze obsługuje klientów. - Bu ofisiant müştərilərə yaxşı xidmət edir.
+•  kelner - ofisiant
+Kelner przyniósł nasze zamówienie. - Ofisiant bizim sifarişi gətirdi.
+•  umierać - ölmək
+Niestety, wiele ludzi umiera z powodu chorób. - Təəssüf ki, bir çox insan xəstəliklərdən ölür.
+•  wysłać - göndərmək
+Muszę wysłać ten list dzisiaj. - Bu məktubu bu gün göndərməliyəm.
+•  oprócz - /savayı
+Oprócz tego, co powiedziałeś, mam jeszcze inne pomysły. - Dediklərin savayı, başqa fikirlərim də var.
+•  zbudować - tikmək (bina)
+Planujemy zbudować nowy dom w przyszłym roku. - Gələn il yeni bir ev tikməyi planlayırıq.
+•  zatrzymywać się - qalmaq (oteldə)
+Zatrzymaliśmy się w pięknym hotelu. - Gözəl bir oteldə qalırıq.
+•  zostawać - qalmaq (yerində)
+Zostaję w domu na weekend. - Həftəsonu evdə qalacağam.
+•  spadać - düşmək
+Liście spadają z drzew na jesieni. - Yarpaqlar payızda ağaclardan düşür.
+•  ciąć - kəsmək
+Muszę przeciąć papier na mniejsze kawałki. - Kağızı daha kiçik parçalar halında kəsməliyəm.
+•  palec - barmaq
+Uderzyłem się w palec u nogi. - Ayaq barmağıma zərbə vurdum.
+•  docierać - çatmaq (harasa)
+Muszę docierać do pracy na czas. - İşə vaxtında çatmalıyam.
+•  zabić - öldürmək
+Nie chcę zabić żadnej istoty. - Heç bir varlığı öldürmək istəmirəm.
+•  pozostać - qalmaq (remain)
+Chcę pozostać w kontakcie z moimi przyjaciółmi. - Dostlarımla əlaqədə qalmaq istəyirəm.
+•  dostarczać - təslim etmək (deliver)
+Firma dostarcza paczki codziennie. - Şirkət gündəlik paketləri təslim edir.
+•  załadować - yükləmək (tıra)
+Musimy załadować towary do ciężarówki. - Mal-materialları tıra yükləməliyik.
+•  ciężarówka - tır
+Ciężarówka przewozi duże ładunki. - Tır böyük yükləri daşıyır.
+•  jeść - yemək yemək
+Lubię jeść zdrowe jedzenie. - Sağlam qidaları yeməyi sevirəm.
+•  obiad - günorta yeməyi
+Na obiad zjadłem zupę i mięso. - Günorta yeməyində şorba və ət yedim.
+•  śniadanie - səhər yeməyi
+Na śniadanie piję kawę i jem tosty. - Səhər yeməyində kofe içirəm və tost yeyirəm.
+•  wyładować - boşaltmaq (tırı)
+Musimy wyładować ciężarówkę przed północą. - Tırı gecə yarısından əvvəl boşaltmalıyıq.
+•  zamawiać - sifariş vermək
+Zamawiam pizzę na kolację. - Şam yeməyi üçün pizza sifariş verirəm.
+•  ubierać się - geyinmək
+Muszę ubrać się na spotkanie. - Görüş üçün geyinməliyəm.
+•  śmiać się - gülmək
+Lubię się śmiać z dobrego żartu. - Yaxşı bir zarafata gülməyi sevirəm.
+•  pogoda - hava
+Pogoda dzisiaj jest bardzo piękna. - Bu gün hava çox gözəldir.
+•  czyścić - təmizləmək
+Muszę czyścić mój pokój. - Otağımı təmizləməliyəm.
+•  posprzątać - toplamaq
+Po imprezie trzeba posprzątać. - Partidən sonra toplamaq lazımdır.
+•  but - ayaqqabı
+Kupiłem nowe buty na zimę. - Qış üçün yeni ayaqqabılar aldım.
+•  koło - təkər
+Koło w samochodzie jest uszkodzone. - Maşının təkəri zədələnib.
+•  magazyn - depo
+Towary są przechowywane w magazynie. - Mallar depoda saxlanılır.
+•  ochroniarz - mühafizəçi
+Ochroniarz pilnuje budynku. - Mühafizəçi binanı qoruyur.
+•  prowadzić - sürmək (maşın)
+Potrafię prowadzić samochód od lat. - İllərdir ki, maşın sürməyi bacarıram.
+•  kierowca - sürücü
+Kierowca czeka na pasażerów. - Sürücü sərnişinləri gözləyir.
+•  czas - vaxt
+Czas leci bardzo szybko. - Vaxt çox tez keçir.
+•  ile masz lat? - neçə yaşın var?
+Ile masz lat? - Neçə yaşın var?
+•  ludzie - insanlar
+Ludzie są różni, ale wszyscy są ważni. - İnsanlar fərqlidir, amma hamısı vacibdir.
+•  sposób - yol, üsul
+Musimy znaleźć lepszy sposób na rozwiązanie tego problemu. - Bu problemi həll etmək üçün daha yaxşı bir yol tapmalıyıq.
+•  codziennie - hər gün
+Codziennie rano wstaję o szóstej. - Hər gün səhər altıda dururam.
+•  mężczyzna - kişi
+Ten mężczyzna jest moim przyjacielem. - Bu kişi mənim dostumdur.
+•  rzecz - əşya
+Potrzebuję tej rzeczy do mojego projektu. - Bu əşyaya layihəm üçün ehtiyacım var.
+•  kobieta - qadın
+Kobieta w czerwonej sukience jest piękna. - Qırmızı paltar geyinmiş qadın gözəldir.
+•  życie - həyat
+Życie bywa pełne niespodzianek. - Həyat çoxlu sürprizlə doludur.
+•  dziecko - uşaq
+Dziecko bawi się w parku. - Uşaq parkda oynayır.
+•  świat - dünya
+Świat jest pełen różnych kultur. - Dünya müxtəlif mədəniyyətlərlə doludur.
+•  szkoła - məktəb
+Moja szkoła jest bardzo nowoczesna. - Məktəbim çox müasirdir.
+•  państwo - dövlət
+Moje państwo ma wiele tradycji. - Mənim dövlətimin bir çox ənənələri var.
+•  rodzina - ailə
+Rodzina jest dla mnie najważniejsza. - Ailə mənim üçün ən vacibdir.
+•  student - tələbə
+Jestem studentem na uniwersytecie. - Mən universitetdə tələbəyəm.
+•  grupa - qrup
+Grupa przyjaciół spotkała się w kawiarni. - Bir qrup dost kafedə görüşdü.
+•  kraj - ölkə
+Mój kraj ma piękne krajobrazy. - Mənim ölkəmin gözəl mənzərələri var.
+•  problem - problem
+Musimy znaleźć rozwiązanie tego problemu. - Bu problemin həllini tapmalıyıq.
+•  ręka - əl
+Podnieś rękę, jeśli chcesz coś powiedzieć. - Nəsə demək istəyirsənsə, əlini qaldır.
+•  część - hissə
+Ta część jest uszkodzona. - Bu hissə zədələnib.
+•  miejsce - yer, məkan
+To miejsce jest idealne na piknik. - Bu yer piknik üçün idealdır.
+•  przypadek - hal (vəziyyət)
+W tym przypadku musimy działać szybko. - Bu halda tez hərəkət etməliyik.
+•  tydzień - həftə
+W przyszłym tygodniu mam ważne spotkanie. - Gələn həftə vacib bir görüşüm var.
+•  tygodniu - həftə
+W tygodniu pracuję od poniedziałku do piątku. - Həftədə bazar ertəsindən cümə gününə qədər çalışıram.
+•  firma - şirkət
+Moja firma rozwija się bardzo szybko. - Mənim şirkətim çox sürətlə inkişaf edir.
+•  system - sistem
+Ten system jest bardzo efektywny. - Bu sistem çox səmərəlidir.
+•  program - proqram
+Ten program pomaga w nauce języków. - Bu proqram dilləri öyrənməyə kömək edir.
+•  pytanie - sual
+Mam pytanie do nauczyciela. - Müəllimə bir sualım var.
+•  praca - iş
+Praca w zespole jest przyjemna. - Komandada işləmək xoşdur.
+•  rząd - hökümət
+Rząd wprowadza nowe przepisy. - Hökümət yeni qaydalar tətbiq edir.
+•  noc - gecə, axşam
+Noc jest czasem odpoczynku. - Gecə istirahət üçün zamandır.
+•  punkt - nöqtə
+Ten punkt jest bardzo ważny w projekcie. - Bu nöqtə layihədə çox vacibdir.
+•  dom - ev
+Mój dom jest moim schronieniem. - Mənim evim mənim sığınacağım.
+•  woda - su
+Woda jest niezbędna do życia. - Su yaşamaq üçün zəruridir.
+•  pokój, komnata - otaq
+Mój pokój jest bardzo przytulny. - Mənim otağım çox rahatdır.
+•  matka - ana
+Moja matka jest najlepszą osobą na świecie. - Mənim anam dünyadakı ən yaxşı insandır.
+•  obszar - sahə
+Ten obszar jest chroniony przez prawo. - Bu sahə qanunla qorunur.
+•  pieniądze - pul
+Pieniądze nie są najważniejsze w życiu. - Pul həyatda ən vacib şey deyil.
+•  historia - hekayə, tarix
+Historia tego miejsca jest fascynująca. - Bu yerin tarixi maraqlıdır.
+•  fakt - fakt
+To jest fakt, którego nie można zignorować. - Bu, inkar oluna bilməyən bir faktdır.
+•  miesiąc - ay
+Miesiąc ma czterdzieści dni. - Ayın dördüncü günü var.
+•  dużo - çox
+Mam dużo pracy do zrobienia. - Ediləsi çox işim var.
+•  prawy - doğru
+To jest prawy wybór. - Bu doğru seçimdir.
+•  edukacja - təhsil
+Edukacja jest kluczem do sukcesu. - Təhsil uğurun açarıdır.
+•  książka - kitab
+Ta książka jest bardzo interesująca. - Bu kitab çox maraqlıdır.
+•  oko - göz
+Oko jest oknem duszy. - Göz ruhun pəncərəsidir.
+•  rękawica - əlcək
+Zgubiłem jedną rękawicę. - Bir əlcəyi itirmişəm.
+•  słowo - söz
+Twoje słowo ma dla mnie wielkie znaczenie. - Sənin sözün mənim üçün çox önəmlidir.
+•  biznes - biznes
+Rozwijam swój własny biznes. - Öz biznesimi inkişaf etdirirəm.
+•  kwestia - məsələ
+To jest kwestia, którą musimy rozwiązać. - Bu, həll etməli olduğumuz bir məsələdir.
+•  strona - tərəf
+Ta strona jest bardzo przydatna. - Bu tərəf çox faydalıdır.
+•  rodzaj - növ
+To jest inny rodzaj muzyki. - Bu, fərqli bir musiqi növüdür.
+•  głowa - baş
+Boli mnie głowa. - Başım ağrıyır.
+•  przystanek - dayanacaq
+Czekam na autobus na przystanku. - Dayanacaqda avtobusu gözləyirəm.
+•  usługa - xidmət
+Ta usługa jest dostępna dla wszystkich. - Bu xidmət hamı üçün mövcuddur.
+•  przyjaciel - dost
+Mój przyjaciel zawsze mi pomaga. - Mənim dostum həmişə mənə kömək edir.
+•  ojciec - ata
+Mój ojciec jest bardzo mądry. - Mənim atam çox ağıllıdır.
+•  godzina - saat
+Która jest godzina? - Saat neçədir?
+•  gra - oyun
+Ta gra jest bardzo wciągająca. - Bu oyun çox maraqlıdır.
+•  koniec - son
+To jest koniec naszej podróży. - Bu, səyahətimizin sonudur.
+•  członek - üzv
+Jestem członkiem tej organizacji. - Mən bu təşkilatın üzvüyəm.
+•  prawo - qayda, qanun
+Prawo powinno być przestrzegane. - Qanuna riayət edilməlidir.
+•  samochód - maşın
+Mam nowy samochód. - Mənim yeni maşınım var.
+•  miasto - şəhər
+Warszawa to piękne miasto. - Varşava gözəl bir şəhərdir.
+•  społeczność - icma
+Nasza społeczność jest zjednoczona. - Bizim icmamız birləşmişdir.
+•  imię - ad
+Jak masz na imię? - Sənin adın nədir?
+•  prezydent - prezident
+Prezydent wygłosił ważne przemówienie. - Prezident mühüm nitq söylədi.
+•  zespół - komanda
+Nasz zespół zdobył mistrzostwo. - Bizim komandamız çempionluq qazandı.
+•  minuta - dəqiqə
+Czekam na ciebie przez minutę. - Səni bir dəqiqə gözləyirəm.
+•  pomysł - fikir
+To jest świetny pomysł! - Bu, əla fikirdir!
+•  ciało - bədən
+Ciało potrzebuje zdrowego odżywiania. - Bədən sağlam qida ilə təmin edilməlidir.
+•  informacja - məlumat
+Potrzebuję więcej informacji na ten temat. - Bu mövzuda daha çox məlumata ehtiyacım var.
+•  rodzic - valideyn
+Każdy rodzic pragnie dobra swojego dziecka. - Hər valideyn uşağının yaxşılığını istəyir.
+•  twarz - üz (sifət)
+Jej twarz była pełna radości. - Onun üzü sevinc dolu idi.
+•  poziom - mərhələ
+Musisz przejść na wyższy poziom. - Daha yüksək mərhələyə keçməlisən.
+•  biuro - ofis
+Moje biuro znajduje się w centrum miasta. - Mənim ofisim şəhərin mərkəzindədir.
+•  drzwi - qapı
+Zamyka drzwi, gdy wychodzi. - Çıxanda qapını bağlayır.
+•  zdrowie - sağlıq
+Zdrowie jest najważniejsze w życiu. - Sağlıq həyatda ən vacibdir.
+•  osoba - şəxs
+To jest bardzo wyjątkowa osoba. - Bu, çox xüsusi bir şəxsdir.
+•  sztuka - incəsənət
+Sztuka jest wyrazem ludzkiej kreatywności. - İncəsənət insan yaradıcılığının ifadəsidir.
+•  wojna - müharibə
+Wojna przynosi wiele cierpienia. - Müharibə çox əzab gətirir.
+•  impreza - yığıncaq, parti
+Ta impreza była niesamowita! - Bu yığıncaq möhtəşəm idi!
+•  wynik - nəticə
+Jaki jest wynik tego badania? - Bu araşdırmanın nəticəsi nədir?
+•  rezultat - nəticə
+Rezultat testu był zadowalający. - Testin nəticəsi qənaətbəxş idi.
+•  kantor - valyuta dəyişmə
+Muszę iść do kantoru wymienić pieniądze. - Mən pul dəyişdirmək üçün valyuta dəyişmə ofisinə getməliyəm.
+•  rano - səhər
+Wstaję rano, żeby iść do pracy. - Səhər tezdən işə getmək üçün qalxıram.
+•  powód - səbəb
+Jaki jest powód twojej decyzji? - Sənin qərarının səbəbi nədir?
+•  badania - araşdırma
+Badania naukowe są bardzo ważne. - Elmi araşdırmalar çox vacibdir.
+•  dziewczyna - qız
+To jest moja dziewczyna. - Bu, mənim qız yoldaşımdır.
+•  chłopak - oğlan
+Mój chłopak jest bardzo sympatyczny. - Mənim oğlan yoldaşım çox mehribandır.
+•  za chwile - az sonra, bir azdan
+Przyjdę za chwilę. - Bir azdan gələcəyəm.
+•  powietrze - hava
+Powietrze w górach jest świeże. - Dağlarda hava təzədir.
+•  samolot - təyyarə
+Samolot odleciał na czas. - Təyyarə vaxtında havaya qalxdı.
+•  nauczyciel - müəllim
+Mój nauczyciel jest bardzo pomocny. - Mənim müəllimim çox köməkçidir.
+•  stacja - stansiya
+Stacja kolejowa znajduje się w centrum miasta. - Dəmir yolu stansiyası şəhərin mərkəzindədir.
+•  pociąg - qatar
+Pociąg przyjeżdża o 15:30. - Qatar saat 15:30-da gəlir.
+•  autobus - avtobus
+Czekam na autobus na przystanku. - Dayanacaqda avtobusu gözləyirəm.
+•  bilet - bilet
+Kupiłem bilet na koncert. - Mən konsert üçün bilet almışam.
+•  po polsku - polyakca
+Mówię po polsku. - Mən polyakca danışıram.
+•  być - olmaq
+Chcę być lekarzem w przyszłości. - Gələcəkdə həkim olmaq istəyirəm.
+•  do - /a,ə /ya,yə
+Idę do sklepu. - Mən dükanə gedirəm.
+•  przepraszam - üzr istəyirəm
+Przepraszam za spóźnienie. - Gecikdiyim üçün üzr istəyirəm.
+•  i - və
+Lubię kawę i herbatę. - Mən qəhvə və çayı sevirəm.
+•  skąd jesteś - haradansan?
+Skąd jesteś? - Haradansan?
+•  w - /da,də, içində
+Książka jest w torbie. - Kitab çantanın içindədir.
+•  tamten - o (kitab)
+Tamten książka jest interesująca. - O kitab maraqlıdır.
+•  mieć - varı olmaq
+Mam dużo przyjaciół. - Mənim çox dostum var.
+•  ja - mən
+Ja to zrobiłem. - Mən bunu etdim.
+•  to - o
+To jest bardzo ważne. - Bu, çox vacibdir.
+•  dla - üçün
+Kupiłem prezent dla ciebie. - Sənin üçün hədiyyə aldım.
+•  nie - deyil, yox
+To nie jest mój samochód. - Bu, mənim maşınım deyil.
+•  na - üstündə
+Książka leży na stole. - Kitab stolun üstündədir.
+•  z - ilə
+Chodzę z moim przyjacielem. - Mən dostumla gəzirəm.
+•  on - o (kişi)
+On jest moim sąsiadem. - O, mənim qonşumdur.
+•  jak - kimi
+Jak się masz? - Necəsən?
+•  ty - sən
+Ty jesteś moim najlepszym przyjacielem. - Sən mənim ən yaxşı dostumsan.
+•  zrobić - etmək
+Muszę zrobić zakupy. - Alış-veriş etməliyəm.
+•  ten/ta - bu
+Ten film jest naprawdę interesujący. - Bu film həqiqətən maraqlıdır.
+•  ale - amma
+Chciałem iść, ale pada deszcz. - Getmək istədim, amma yağış yağır.
+•  jego - onun (kişi)
+To jest jego książka. - Bu, onun kitabıdır.
+•  przez - tərəfindən
+Zostałem zaproszony przez kolegę. - Məni dostum dəvət etdi.
+•  z/ze - /dan,dən
+Przyjechałem z Polski. - Mən Polşadan gəldim.
+•  oni - onlar
+Oni są bardzo mili. - Onlar çox mehribandır.
+•  powiedzieć - demək
+Muszę ci coś powiedzieć. - Sənə bir şey deməliyəm.
+•  jej - onun (q)
+To jest jej pies. - Bu, onun itidir.
+•  ona - o (q)
+Ona jest moją siostrą. - O, mənim bacımdır.
+•  albo/lub - və ya
+Chcesz kawę albo herbatę? - Sən qəhvə istəyirsən, yoxsa çay?
+•  cześć - salam (informal)
+Cześć! Jak się masz? - Salam! Necəsən?
+•  dzień dobry - iyi günlər
+Dzień dobry! Jak mija twój dzień? - İyi günlər! Sənin günün necə keçir?
+•  dobry wieczór - iyi gecələr
+Dobry wieczór! Miło cię widzieć. - İyi gecələr! Səni görmək xoşdur.
+•  do widzenia - görüşənədək
+Do widzenia! Do zobaczenia wkrótce. - Görüşənədək! Tezliklə görüşərik.
+•  mój - mənim
+Mój dom jest bardzo przytulny. - Mənim evim çox rahatdır.
+•  jeden - bir
+Chcę jeden kawałek ciasta. - Bir parça tort istəyirəm.
+•  wszystko - bütün (insanlar)
+Wszystko będzie dobrze. - Hər şey yaxşı olacaq.
+•  ich - onların
+To jest ich dom. - Bu onların evidir.
+•  co - nə
+Co chcesz zjeść? - Nə yemək istəyirsən?
+•  więc - ona görə də
+Jestem zmęczony, więc idę spać. - Yorğunam, ona görə də yatmağa gedirəm.
+•  w górę - yuxarı
+Wspinaj się w górę! - Yuxarı dırmaş!
+•  na zewnątrz - çöldə
+Chodźmy na zewnątrz. - Gəl, çöldə olaq.
+•  jeśli - əgər
+Jeśli pada deszcz, weź parasol. - Əgər yağış yağırsa, şemsiye götür.
+•  kto/kim - kim?
+Kto to jest? - Bu kimdir?
+•  dostać - əldə etmək
+Chcę dostać prezent na urodziny. - Doğum günüm üçün hədiyyə əldə etmək istəyirəm.
+•  który - hansı
+Który film chcesz obejrzeć? - Hansı filmi izləmək istəyirsən?
+•  iść - getmək
+Muszę iść do pracy. - İşə getməliyəm.
+•  mnie/mi - mənə
+Proszę, daj mi to. - Zəhmət olmasa, bunu mənə ver.
+•  kiedy - nə vaxt?
+Kiedy idziemy na zakupy? - Nə vaxt alış-verişə gedirik?
+•  móc - bacarmaq
+Mogę pomóc ci z tym. - Bu işdə sənə kömək edə bilərəm.
+•  lubić - xoşlamaq
+Lubię oglądać filmy. - Filmləri izləməyi xoşlayıram.
+•  nie - yox
+Nie chcę tego. - Bunu istəmirəm.
+•  jego - o
+To jest jego książka. - Bu, onun kitabıdır.
+•  znać - bilmək
+Znam tę osobę. - Bu şəxsı tanıyıram.
+•  za(brać) - götürmək
+Wezmę to ze sobą. - Bunu özümlə götürəcəyəm.
+•  rok - il
+Mamy jeden rok do zakończenia projektu. - Layihənin tamamlanmasına bir il var.
+•  twój - sənin
+To jest twój samochód. - Bu, sənin maşındır.
+•  dobry - yaxşı
+To był dobry pomysł. - Bu yaxşı fikirdir.
+•  niektóre - bəzi
+Niektóre dzieci lubią bawić się na dworze. - Bəzi uşaqlar çöldə oynamağı sevir.
+•  pa pa - bye bye
+Pa pa! Do zobaczenia! - Bye bye! Görüşənədək!
+•  chodźmy - haydi (let's go)
+Chodźmy na spacer. - Haydi, gəzməyə gedək.
+•  jak się masz - necəsən?
+Jak się masz dzisiaj? - Bu gün necəsən?
+•  a ty - bəs sən (necəsən?)
+A ty, jak się masz? - Bəs sən, necəsən?
+•  im/ich - onlara/ı
+Daj im to. - Onlara bunu ver.
+•  widzieć - görmək
+Chcę widzieć ten film. - Bu filmi görmək istəyirəm.
+•  inny - digər
+Potrzebuję inny pomysł. - Mənə digər bir fikir lazımdır.
+•  wtedy - onda, o zaman
+Wtedy poszliśmy na spacer. - Onda gəzintiyə çıxdıq.
+•  teraz - indi
+Teraz jest czas na odpoczynek. - İndi istirahət etməyin vaxtıdır.
+•  spojrzeć - baxmaq
+Spojrzałem na zegarek. - Saata baxdım.
+•  przybyć - gəlmək
+Kiedy przybył gość? - Qonaq nə vaxt gəldi?
+•  ponad - üzərində (100ün)
+Mamy ponad 100 zdjęć. - Bizim 100-dən çox şəkilimiz var.
+•  myśleć - fikirləşmək
+Muszę pomyśleć o tym. - Bu barədə fikirləşməliyəm.
+•  również - həmçinin
+Również to jest ważne. - Bu da həmçinin vacibdir.
+•  tył - arxa(ya)
+Tył samochodu jest uszkodzony. - Maşının arxası zədələnib.
+•  po - sonra
+Spotkamy się po pracy. - İşdən sonra görüşəcəyik.
+•  używać - istifadə etmək
+Używam tego narzędzia codziennie. - Hər gün bu alətdən istifadə edirəm.
+•  dwa - iki
+Mam dwa koty. - İki pişiyim var.
+•  jak - necə?
+Jak to zrobisz? - Bunu necə edəcəksən?
+•  nasz - bizim
+To jest nasza szkoła. - Bu, bizim məktəbimizdir.
+•  pracować - işləmək
+Muszę pracować nad projektem. - Layihə üzərində işləməliyəm.
+•  pierwszy - birinci
+To jest pierwszy krok. - Bu, birinci addımdır.
+•  dobrze - yaxşı
+Czuję się dobrze. - Yaxşı hiss edirəm.
+•  droga - yol (maşın yolu)
+Droga do domu jest długa. - Evə gedən yol uzundur.
+•  nawet - hətta
+Nawet dzieci to rozumieją. - Hətta uşaqlar bunu anlayır.
+•  nowy - yeni
+Kupiłem nowy telefon. - Yeni telefon aldım.
+•  chcieć - istəmək
+Chcę podróżować po świecie. - Dünyanı gəzmək istəyirəm.
+•  ponieważ - çünki
+Nie mogę przyjść, ponieważ jestem chory. - Gələ bilmirəm, çünki xəstəyəm.
+•  dowolny - hərhansısa bir
+Wybierz dowolny kolor. - Hərhansısa bir rəng seç.
+•  te - bunlar
+Te kwiaty są piękne. - Bu gül ətirləri gözəldir.
+•  dać - vermək
+Chcę dać ci prezent. - Sənə hədiyyə vermək istəyirəm.
+•  dzień - gün
+Dzisiaj jest piękny dzień. - Bu gün gözəl bir gündür.
+•  najbardziej - ən çox (axtarılan)
+To jest najbardziej popularny film. - Bu, ən populyar filmdir.
+•  bardzo - çox (gözəl)
+Jestem bardzo szczęśliwy. - Mən çox sevincliyəm.
+•  proszę - xahiş edirəm (please)
+Proszę, podaj mi sól. - Xahiş edirəm, mənə duz ver.
+•  dziękuję - sağ ol!
+Dziękuję za pomoc. - Kömək üçün sağ ol!
+•  proszę bardzo - dəyməz, buyur
+Proszę bardzo, oto twoje zamówienie. - Dəyməz, buyur, budur sənin sifarişin.
+•  miło mi poznać - tanışlığımıza şadam
+Miło mi poznać cię. - Tanışlığıma şadam.
+•  nie rozumiem - anlamıram
+Przepraszam, nie rozumiem. - Bağışla, anlamıram.
+•  nie wiem - bilmirəm
+Nie wiem, co mam zrobić. - Bilmirəm, nə etməliyəm.
+•  trzy - üç
+Mam trzy jabłka. - Üç alma var.
+•  zero - sıfır
+Zero to najmniejsza liczba. - Sıfır ən kiçik ədəddir.
+•  pięć - beş
+Chcę pięć cukierków. - Beş konfet istəyirəm.
+•  siedem - yeddi
+Siedem dni w tygodniu. - Həftədə yeddi gün var.
+•  przykład - örnək
+Oto przykład zadania. - Budur bir tapşırıq örnəyi.
+•  decyzja - qərar
+Muszę podjąć decyzję. - Qərar verməliyəm.
+•  rower - velosiped
+Jeżdżę na rowerze. - Velosiped sürürəm.
+•  czy - yoxsa (or), -mi?
+Czy chcesz kawę, czy herbatę? - Sən çay, yoxsa kofe istəyirsən?
+•  pies - it
+Mój pies jest bardzo przyjazny. - Mənim itim çox dostcadır.
+•  zdjęcie - şəkil
+Zróbmy zdjęcie razem. - Gəlin bir yerdə şəkil çəkdirək.
+•  rzeka - çay (axar ç.)
+Rzeka płynie przez miasto. - Çay şəhərdən axır.
+•  córka - qız (övladı)
+Mam córkę w wieku pięciu lat. - Beş yaşında bir qızım var.
+•  mleko - süd
+Chcę szklankę mleka. - Bir stəkan süd istəyirəm.
+•  długopis - ruçka
+Potrzebuję długopisu do pisania. - Yazmaq üçün ruçkaya ehtiyacım var.
+•  tu/tutaj - bura (ya)
+Tu jest twoje miejsce. - Bura sənin yerindir.
+•  tam - ora (ya)
+Tam jest mój dom. - Ora mənim evimdir.
+•  lustro - güzgü
+Spójrz w lustro. - Güzgüyə bax.
+•  siebie - öz (ün)
+Musisz wierzyć w siebie. - Özünə inanmalısan.
+•  starać się - etməyə çalışmaq
+Staram się być lepszy. - Daha yaxşı olmağa çalışıram.
+•  zawsze - həmişə
+Zawsze się uśmiechaj. - Həmişə gülümsə.
+•  dbać - qayğısına qalmaq
+Musisz dbać o swoje zdrowie. - Sağlığının qayğısına qalmalısan.
+•  jakiś - hər hansısa (bir)
+Chcę jakiś nowy film. - Hər hansısa yeni film istəyirəm.
+•  polecać - məsləhət görmək
+Mogę polecić dobrą restaurację. - Yaxşı bir restoran məsləhət görə bilərəm.
+•  tłumaczyć - tərcümə etmək
+Muszę przetłumaczyć ten tekst. - Bu mətni tərcümə etməliyəm.
+•  ulubiony - favorit
+To jest moja ulubiona książka. - Bu, mənim favorit kitabımdır.
+•  niespodzianka - sürpriz
+Mam dla ciebie niespodziankę. - Sənin üçün bir sürprizim var.
+•  urodziny - doğum günü
+Dzisiaj są moje urodziny. - Bu gün mənim doğum günümdür.
+•  musieć - məcburiyyətində olmaq
+Muszę iść do pracy. - İşə getməliyəm.
+•  ktoś - kimsə
+Ktoś dzwonił do ciebie. - Kimsə sənə zəng etdi.
+•  coś - nəsə
+Chcę coś zjeść. - Nəsə yemək istəyirəm.
+•  ów - o (dediyin)
+Owy człowiek jest moim przyjacielem. - O dediyin adam mənim dostumdur.
+•  jaki - hansı?
+Jaki kolor lubisz? - Hansı rəngi sevirsən?
+•  widok - mənzərə
+Widok z tego miejsca jest piękny. - Bu yerdən mənzərə gözəldir.
+•  zapach - qoxu
+Zapach kwiatów jest cudowny. - Çiçəklərin qoxusu möhtəşəmdir.
+•  mądry - müdrik
+To był mądry krok. - Bu, müdrik bir addım idi.
+•  bystry - ağıllı
+Jest bardzo bystry chłopak. - O, çox ağıllı bir oğlandır.
+•  kwiat - çiçək
+Kwiaty w ogrodzie są piękne. - Bağdakı çiçəklər gözəldir.
+•  jakiż - nəsə də (gizli, nocuz)
+Jakiż piękny jest ten dzień! - Nəsə də gözəl bir gündür!
+•  ile? - nəçə? nə qədər?
+Ile kosztuje ta książka? - Bu kitabın qiyməti nə qədərdir?
+•  kosztować - qiymətində olmaq
+Ten samochód kosztuje dużo pieniędzy. - Bu avtomobilin qiyməti çoxdur.
+•  ile to kosztuje? - qiyməti bunun neçədir?
+Ile to kosztuje? - Qiyməti bunun neçədir?
+•  jeszcze - hələ də
+Jeszcze nie wiem. - Hələ də bilmirəm.
+•  mieszkanie - bina, mənzil
+Mieszkam w dużym mieszkaniu. - Böyük bir mənzildə yaşayıram.
+•  syn - oğul
+Mój syn ma osiem lat. - Mənim oğlum səkkiz yaşındadır.
+•  dzisiaj - bu gün
+Dzisiaj jest piękna pogoda. - Bu gün hava gözəldir.
+•  uprzejmy - kibar
+On jest bardzo uprzejmy. - O, çox kibardır.
+•  pani - xanım
+Pani Kowalska jest moją nauczycielką. - Xanım Kowalska mənim müəlliməmdir.
+•  zmęczony - yorğun
+Jestem zmęczony po pracy. - İşdən sonra yorğunam.
+•  zabawny - gülməli
+Ten film jest zabawny. - Bu film gülməlidir.
+•  ubranie - geyim
+Muszę kupić nowe ubranie. - Yeni geyim almalıyam.
+•  ileż - nə qədər də (gözəlsən)
+Ileż ty jesteś piękna! - Nə qədər də gözəlsən!
+•  żeby - ötrü ki,
+Musisz pracować, żeby zarobić pieniądze. - Pul qazanmaq ötrü ki, işləməlisən.
+•  sklep - market
+Idę do sklepu po chleb. - Çörək almaq ötrü marketə gedirəm.
+•  nic - heç nə
+Nie mam nic do powiedzenia. - Heç nə demək istəmirəm.
+•  nikt - heç kim
+Nikt nie przyszedł na imprezę. - Heç kim şənliyə gəlmədi.
+•  bać się - qorxmaq
+Boję się ciemności. - Qaranlıqdan qorxuram.
+•  pająk - hörümçək
+Widziałem dużego pająka. - Böyük bir hörümçək gördüm.
+•  cukier - şəkər
+Chcę dodać cukier do herbaty. - Çaya şəkər əlavə etmək istəyirəm.
+•  pić - içmək
+Lubię pić kawę. - Qəhvə içməyi sevirəm.
+•  trochę - bir az
+Potrzebuję trochę czasu. - Bir az zamana ehtiyacım var.
+•  pierdolić - to fuck
+Nie używaj takiego języka. - Belə bir dildən istifadə etmə.
+•  ciekawy - maraqlı
+To jest bardzo ciekawa książka. - Bu, çox maraqlı bir kitabdır.
+•  naprawdę - həqiqətən
+Naprawdę to była świetna impreza. - Həqiqətən, bu, əla bir şənlik idi.
+•  podobać się - bəyənmək
+Podoba mi się ta piosenka. - Bu mahnını bəyənirəm.
+•  szybki - sürətli
+To jest szybki samochód. - Bu sürətli bir avtomobildir.
+•  gorszy - çox pis
+To jest gorszy pomysł. - Bu, çox pis fikirdir.
+•  dwadzieścia - iyirmi (20)
+Mam dwadzieścia lat. - Mənim iyirmi yaşım var.
+•  trzydzieści - otuz (30)
+Mam trzydzieści złotych. - Mənim otuz zlotim var.
+•  tysiąc - min
+To kosztuje tysiąc złotych. - Bu, min zlotə başa gəlir.
+•  zeszyt - dəftər
+Potrzebuję nowego zeszytu do szkoły. - Məktəb üçün yeni dəftərə ehtiyacım var.
+•  jedenaście - on bir (11)
+Jestem jedenaście lat. - Mən on bir yaşındayam.
+•  drugi - ikinci
+To jest drugi raz, kiedy tu jestem. - Bu, buraya ikinci dəfə gəlməyimdir.
+•  czwarty - dördüncü
+To jest czwarty rozdział książki. - Bu, kitabın dördüncü fəsilidir.
+•  siódmy - yeddinci
+Dziś jest siódmy dzień miesiąca. - Bu gün ayın yeddinci günüdür.
+•  trzeci - üçüncü
+To jest trzeci próbny egzamin. - Bu, üçüncü sınaq imtahanıdır.
+•  jedenasty - on birinci (11-ci)
+Urodziny mam w jedenasty dniu miesiąca. - Doğum günüm ayın on birindədir.
+•  pan - cənab
+Pan Nowak jest moim szefem. - Cənab Novak mənim rəhbərimdir.
+•  owszem - bəli (formal)
+Owszem, zgadzam się z Tobą. - Bəli, səninlə razıyam.
+•  też - həmçinin
+Ja też chcę iść na zakupy. - Mən də alış-verişə getmək istəyirəm.
+•  oczywiście - əlbəttə
+Oczywiście, że ci pomogę. - Əlbəttə, sənə kömək edəcəyəm.
+•  powodzenia - uğurlar!
+Powodzenia na egzaminie! - İmtahanda uğurlar!
+•  witamy - Xoş gəlmisiniz
+Witamy w naszym hotelu! - Xoş gəlmisiniz bizim otelimizə!
+•  gotować - yemək hazırlamaq
+Lubię gotować dla mojej rodziny. - Ailəm üçün yemək hazırlamağı sevirəm.
+•  woleć - tərcih etmək
+Woleję kawę od herbaty. - Mən çayı qəhvəyə tərcih edirəm.
+•  myć - yumaq
+Muszę myć ręce przed jedzeniem. - Yeməkdən əvvəl əllərimi yumaq məcburiyyətindəyəm.
+•  palić - (siqaret) çəkmək
+Nie wolno palić w tym miejscu. - Bu yerdə siqaret çəkmək qadağandır.
+•  dotykać - toxunmaq
+Nie dotykaj tej masyny! - O maşına toxunma!
+•  szanować - hörmət etmək
+Musisz szanować starszych. - Böyüklərə hörmət etməlisən.
+•  badać - sınaqdan keçirmək
+Będziemy badać nowe lekarstwo. - Yeni dərmanı sınaqdan keçirəcəyik.
+•  chować - gizlətmək
+Chowam zabawki w szafie. - Oyuncaqları dolabda gizlədirəm.
+•  kroić - kəsmək
+Kroję chleb na kawałki. - Çörəyi parçalara kəsirəm.
+•  istnieć - mövcud olmaq
+Czy myślisz, że życie na Marsie istnieje? - Marsda həyatın mövcud olduğunu düşünürsən?
+•  marzyć - arzulamaq
+Marzę o podróży dookoła świata. - Dünyanı gəzib görmək arzusundayam.
+•  pensja - maaş
+Moja pensja jest zbyt niska. - Mənim maaşım çox aşağıdır.
+•  płynąć - üzmək
+Lubię płynąć w jeziorze latem. - Yayda göldə üzməyi sevirəm.
+•  odpoczywać - dincəlmək
+Muszę odpoczywać po ciężkim dniu. - Çətin gündən sonra dincəlməliyəm.
+•  'podróż'ować - 'səyahət' etmək
+Chciałbym podróżować po Europie. - Avropanı səyahət etmək istəyirəm.
+•  wczoraj - dünən
+Wczoraj poszedłem do kina. - Dünən kinoya getdim.
+•  często - tez-tez
+Często chodzę na spacery. - Tez-tez gəzintiyə çıxıram.
+•  wszędzie - hər yer
+Szukałem cię wszędzie! - Səni hər yerdə axtardım!
+•  rzadko - nadirən
+Rzadko jem fast food. - Nadirən sürətli yemək yeyirəm.
+•  dokładny - dəqiq
+Musisz być dokładny w swojej pracy. - İşində dəqiq olmalısan.
+•  jutro - sabah (tomorrow)
+Jutro mam ważny egzamin. - Sabahımda vacib bir imtahanım var.
+•  czasami - bəzən
+Czasami czuję się zmęczony. - Bəzən yorğun hiss edirəm.
+•  dość - kifayət qədər
+To wystarczy, dziękuję. - Bu kifayətdir, sağ ol.
+•  po'wolny' - 'yavaş'
+Proszę, jedź wolniej! - Zəhmət olmasa, daha yavaş sür!
+•  ząb, 'zęby' - diş, 'dişlər'
+Muszę pójść do dentysty, bo boli mnie ząb. - Diş həkiminə getməliyəm, çünki dişim ağrıyır.
+•  niż, od - daha (than)
+Ona jest piękniejsza niż ja. - O, məndən daha gözəldir.
+•  spacer - gəzinti
+Chodźmy na spacer po parku. - Parkda gəzintiyə çıxaq.
+•  ser - pendir
+Lubię jeść ser z winogronami. - Üzüm ilə pendir yeməyi sevirəm.
+•  chory - xəstə
+Jestem chory i nie mogę iść do pracy. - Xəstəyəm və işə gedə bilmirəm.
+•  zakupy - alış-veriş
+Muszę zrobić zakupy na weekend. - Həftə sonu alış-veriş etməliyəm.
+•  gdy - nə zaman ki
+Gdy wróciłem do domu, padał deszcz. - Evə qayıdanda yağış yağırdı.
+•  choć, mimo że - baxmayaraq (ki)
+Choć padał deszcz, poszliśmy na spacer. - Yağış yağsa da, gəzintiyə çıxdıq.
+•  wcale się - heç (qorxmadım)
+Nie boję się wcale. - Heç qorxmuram.
+•  aby, żeby - ondan ötrü ki,
+Uczyłem się, aby zdać egzamin. - İmtahanı keçmək üçün çalışırdım.
+•  herbata - çay
+Chcesz filiżankę herbaty? - Bir fincan çay içmək istəyirsən?
+•  ani - nə də
+Nie mam ani czasu, ani pieniędzy. - Nə vaxtım, nə də pulum var.
+•  gardło - boğaz (anatomik)
+Boli mnie gardło. - Boğazım ağrıyır.
+•  padać - yağmaq (qar, yağış), düşmək
+Dziś będzie padać deszcz. - Bu gün yağış yağacaq.
+•  przed - əvvəl, qabağında (yam)
+Spotkamy się przed szkołą. - Məktəbin qabağında görüşəcəyik.
+•  od - /dan, dən, bəri
+Mieszkam w tym mieście od pięciu lat. - Bu şəhərdə beş ildən bəri yaşayıram.
+•  przy - yanında, /da, də
+Siedzę przy oknie. - Pəncərənin yanında otururam.
+•  między - arasında
+Mieszkam między dwoma rzekami. - İki çayın arasında yaşayıram.
+•  fotel - kreslo
+Ten fotel jest bardzo wygodny. - Bu kreslo çox rahatdır.
+•  łóżko - kravat, yataq
+Kupiłem nowe łóżko do sypialni. - Yataq otağıma yeni yataq aldım.
+•  wobec - dair, qarşı
+Musimy być uczciwi wobec siebie. - Bir-birimizə qarşı dürüst olmalıyıq.
+•  pomimo - baxmayaraq, əksinə
+Pomimo deszczu poszliśmy na spacer. - Yağışa baxmayaraq, gəzintiyə çıxdıq.
+•  podczas - ərzində
+Podczas wakacji odwiedziłem wiele miejsc. - Yayda çox yer ziyarət etdim.
+•  zamiast - əksinə
+Zamiast siedzieć w domu, wolę iść na spacer. - Evdə oturmaq əvəzinə, gəzintiyə getməyi üstün tuturam.
+•  chmura - bulud
+Na niebie są piękne chmury. - Göydə gözəl buludlar var.
+•  drzewo - ağac
+To drzewo ma wiele gałęzi. - Bu ağacın çox budağı var.
+•  martwić się - narahat olmaq
+Nie martw się, wszystko będzie dobrze. - Narahat olma, hər şey yaxşı olacaq.
+•  zachowanie - davranış, hərəkət
+Jego zachowanie było bardzo dziwne. - Onun davranışı çox qəribə idi.
+•  podstaw - təməl (i binanın)
+Fundamenty są podstawą budynku. - Temel bina üçün əsasdır.
+•  podjąć decyzję - qərar vermək
+Muszę podjąć decyzję do końca tygodnia. - Həftənin sonuna qədər qərar verməliyəm.
+•  jedzenie - yemək
+To jedzenie jest pyszne! - Bu yemək dadlıdır!
+•  dziewięć - doqquz (9)
+Mam dziewięć jabłek. - Mənim doqquz alma var.
+•  dziesięć - on (10)
+Widziałem dziesięć ptaków. - On quş gördüm.
+•  sposób postępowania - prosedurlar
+Musimy ustalić sposób postępowania w tej sytuacji. - Bu vəziyyətdə prosedurları müəyyən etməliyik.
+•  postępować - irəliləmək
+Musimy postępować zgodnie z planem. - Plana uyğun irəliləməliyik.
+•  ładunek - yük (kargo)
+Ładunek został dostarczony na czas. - Yük vaxtında təslim edildi.
+•  dodatkowo - əlavə olaraq
+Dodatkowo, musimy przygotować raport. - Əlavə olaraq, hesabat hazırlamalıyıq.
+•  obowiązek - vəzifə, məsuliyyət
+Każdy ma obowiązek dbać o środowisko. - Hər kəs ətraf mühitə qayğı göstərmək məsuliyyətindədir.
+•  powyższy - yuxarıdakı
+W powyższym przykładzie widać różnice. - Yuxarıdakı misalda fərqləri görmək olar.
+•  wykonywać - icra etmək, həyata keçirmək
+Muszę wykonywać wszystkie swoje obowiązki. - Bütün vəzifələrimi icra etməliyəm.
+•  czynność - fəaliyyət
+Ta czynność jest bardzo ważna. - Bu fəaliyyət çox vacibdir.
+•  że - ki
+Wiem, że przyjdziesz. - Bilirəm ki, gələcəksən.
+•  zwolnić - buraxmaq, azad etmək
+Postanowiłem zwolnić pracownika. - İşçini buraxmağa qərar verdim.
+•  mieć miejsce - baş tutmaq
+Wydarzenie będzie miało miejsce w przyszłym tygodniu. - Hadisə gələn həftə baş tutacaq.
+•  wyłącznie - yalnızca, sadəcə
+To wyłącznie twoja decyzja. - Bu yalnızca sənin qərarındır.
+•  kamizelka - yelek (jiletka)
+Załóż kamizelkę, jest zimno. - Yelek geyin, hava soyuqdur.
+•  oraz - və
+Lubię kawę oraz herbatę. - Mən həm kofe, həm də çay sevirəm.
+•  wejść+ ie - girmək+ giriş
+Wejście do budynku jest zamknięte. - Bina girişinə girmək qadağandır.
+•  kolejność - sıra
+Musimy ustalić kolejność działań. - Fəaliyyətlərin sırasını müəyyən etməliyik.
+•  odpowiedni - uyğun (bu şərtə)
+Musisz znaleźć odpowiedni strój na imprezę. - Bayram üçün uyğun paltar tapmalısan.
+•  z wyprzedzeniem - əvvəlcədən
+Proszę zarezerwować bilety z wyprzedzeniem. - Biletleri əvvəlcədən rezerv etməyinizi xahiş edirəm.
+•  obie - hər ikisi
+Obie opcje są dobre. - Hər ikisi seçim yaxşıdır.
+•  umowa - müqavilə
+Podpisaliśmy umowę na dostawę towarów. - Malların təchizatı üzrə müqavilə imzaladıq.
+•  zaawizować - bildirmək
+Musisz zaawizować swoje przybycie. - Gəlişinizi bildirməlisiniz.
+•  bieżący - hazırki (vəziyyət)
+Musimy znać bieżący stan projektu. - Layihənin hazırki vəziyyətini bilmək lazımdır.
+•  zależeć od - asılı olmaq
+To zależy od twojej decyzji. - Bu, sənin qərarından asılıdır.
+•  wraz z - yanısıra, yanaşı
+Wraz z rodzicami przyjechałem na wakacje. - Valideynlərimlə birlikdə yay tətilinə gəldim.
+•  egzemplarz - nüsxə (/si sənədin)
+Mam egzemplarz umowy. - Müqavilənin bir nüsxəsi var.
+•  posiadać - sahib olma
+Posiadam dużo doświadczenia w tej dziedzinie. - Bu sahədə çox təcrübəm var.
+•  uprasza się - təkid etmək
+Uprasza się o ciszę podczas wykładu. - Dərs zamanı səssizlik təkid edilir.
+•  wymagać - tələb etmək
+To zadanie wymaga dużo czasu. - Bu vəzifə çox vaxt tələb edir.
+•  zwrot - iade, geri vermə
+Chcę zrobić zwrot towaru. - Məhsulu geri qaytarmaq istəyirəm.
+•  świadczyć usługę - ...xidməti göstərmək
+Firma świadczy usługi doradcze. - Şirkət məsləhət xidmətləri göstərir.
+•  uczestniczyć - iştirak etmək
+Będę uczestniczyć w konferencji. - Konfransda iştirak edəcəyəm.
+•  przy - /da, də, yanında
+Chodź przy mnie, jest niebezpiecznie. - Yanımda gəl, təhlükəlidir.
+•  czynny - aktiv
+Jestem czynny zawodowo. - Mən aktiv işlə məşğulam.
+•  nudny - darıxdırıcı
+Ten film był bardzo nudny. - O film çox darıxdırıcı idi.
+•  niezwłocznie - dərhal
+Proszę niezwłocznie skontaktować się z nami. - Xahiş edirəm, bizimlə dərhal əlaqə saxlayın.
+•  brama - darvaza
+Zamknij bramę, żeby nie wchodziły zwierzęta. - Darvazanı bağla ki, heyvanlar daxil olmasın.
+•  należy - gərəkli, vacib
+Należy przestrzegać zasad bezpieczeństwa. - Təhlükəsizlik qaydalarına riayət etmək vacibdir.
+•  odbywać się - baş tutmaq
+Spotkanie odbędzie się w piątek. - Görüş cümə günü baş tutacaq.
+•  udać się - getmək, müvəffəq olmaq
+Udało mi się zdobyć tę pracę. - O işi əldə etməkdə müvəffəq oldum.
+•  jednostka - bölmə (unit)
+Ta jednostka zajmuje się marketingiem. - Bu bölmə marketinq ilə məşğuldur.
+•  wojewoda - valilik (yerli icra hakimiyyəti)
+Wojewoda jest odpowiedzialny za zarządzanie regionem. - Valilik bölgənin idarə edilməsindən məsuldur.
+•  zezwolenie - icazə
+Potrzebuję zezwolenia na budowę. - Tikinti üçün icazəyə ehtiyacım var.
+•  na 'podstaw'ie - 'əsas'lanaraq
+Decyzja została podjęta na podstawie zebranych danych. - Qərar toplanmış məlumatlar əsasında qəbul edildi.
+•  ustawa - qanun
+Nowa ustawa wejdzie w życie w przyszłym roku. - Yeni qanun gələn ildən qüvvəyə minəcək.
+•  rozpatrywać - nəzərdən keçirmək
+Rozpatrzymy Twoją prośbę w najbliższym czasie. - Sizin ərizənizi ən qısa zamanda nəzərdən keçirəcəyik.
+•  wniosek - müraciət
+Złożyłem wniosek o dofinansowanie. - Daxil etmə müraciətini təqdim etdim.
+•  cudzoziemiec - yabancı
+Cudzoziemcy muszą mieć wizę. - Yabancılar viza sahib olmalıdırlar.
+•  siedziba - baş ofis, mərkəz
+Siedziba firmy znajduje się w Warszawie. - Şirkətin baş ofisi Varşavada yerləşir.
+•  obywatel - vətəndaş
+Każdy obywatel ma prawo do głosowania. - Hər vətəndaşın səsvermə haqqı var.
+•  stanowisko - pozisiya (işdəki)
+Zajmuję stanowisko kierownika działu. - Mən şöbə rəhbəri vəzifəsini tuturam.
+•  s/pełnić - yerinə yetirmək
+Musisz pełnić swoje obowiązki. - Öz vəzifələrini yerinə yetirməlisən.
+•  zlecenie - vərdiş, iş
+Otrzymałem nowe zlecenie od klienta. - Müştəridən yeni iş aldım.
+•  wymiar - ölçü
+Wymiar tej szafy jest zbyt duży. - Bu dolabın ölçüsü çox böyükdür.
+•  liczba - sayı (əşyaların)
+Liczba uczestników konferencji wynosi 100. - Konfrans iştirakçılarının sayı 100-dir.
+•  pół etat - part-time iş
+Pracuję na pół etatu w tej firmie. - Bu şirkətdə part-time işlə məşğulam.
+•  wynagrodzenie - xidməti haqqı
+Wynagrodzenie za tę pracę jest dobre. - Bu iş üçün xidmət haqqı yaxşıdır.
+•  okres - dövr, period
+Okres wakacji trwa dwa miesiące. - Yay tətili iki ay davam edir.
+•  określać - dəqiqləşdirmək (specify)
+Musimy określać cele na przyszły rok. - Gələn il üçün məqsədləri dəqiqləşdirməliyik.
+•  spółka - şirkət
+Spółka została założona w 2020 roku. - Şirkət 2020-ci ildə yaradılıb.
+•  na rzecz - ... adına (üçün)
+Działamy na rzecz ochrony środowiska. - Biz ətraf mühitin qorunması üçün fəaliyyət göstəririk.
+•  pracodawca - iş sahibi (müdir)
+Mój pracodawca jest bardzo wymagający. - Mənim iş sahibim çox tələbkardır.
+•  przedmiot, podmiot - mövzu
+Naszym przedmiotem badań jest jakość powietrza. - Araşdırmalarımızın mövzusu havanın keyfiyyətidir.
+•  uwaga - diqqət
+Proszę zwrócić uwagę na to ogłoszenie. - Xahiş edirəm, bu elanə diqqət yetirin.
+•  wioska, wieś - kənd
+Mieszkam w małej wiosce. - Mən kiçik bir kənddə yaşayırıq.
+•  mowa - danışıq (speech)
+Jego mowa była bardzo przekonywująca. - Onun danışığı çox inandırıcı idi.
+•  zdanie - cümlə
+Proszę napisać zdanie z użyciem tego słowa. - Xahiş edirəm, bu sözlə bir cümlə yazın.
+•  pod + warunek - şərt + ilə
+Zgoda została udzielona pod warunkiem. - Razılıq şərt ilə verildi.
+•  zatrudnienie - istihdam, məşğulluq
+Mamy wysokie wskaźniki zatrudnienia. - Bizdə yüksək məşğulluq göstəriciləri var.
+•  następny - sonrakı, növbəti
+Następny projekt zaczyna się w przyszłym miesiącu. - Növbəti layihə gələn ay başlayır.
+•  upoważniać - səlahiyyət vermək
+Upoważniam cię do reprezentowania mnie. - Səni mənim adımı təmsil etməyə səlahiyyət verirəm.
+•  nawzajem - bir-birini
+Musimy pomagać sobie nawzajem. - Biz bir-birimizə kömək etməliyik.
+•  powiadamiać - bildirmək
+Będziemy powiadamiać cię o zmianach. - Dəyişikliklər barədə səni məlumatlandıracağıq.
+•  zmiana - dəyişiklik
+Zmiana planu była konieczna. - Planın dəyişdirilməsi zəruri idi.
+•  przejęcie - devralma
+Przejęcie firmy odbyło się wczoraj. - Şirkətin devralınması dünən baş verdi.
+•  początek - başlanğıc
+Początek nowego roku to dobry czas na zmiany. - Yeni ilin başlanğıcı dəyişikliklər üçün yaxşı zamandır.
+•  przerwać - yarım qoymaq
+Muszę przerwać tę rozmowę. - Bu söhbəti yarım qoymalıyam.
+•  przekraczać - aşmaq, ötüb keçmək
+Nie możemy przekraczać prędkości. - Biz sürəti aşmamalıyıq.
+•  upływać - zamanın keçməsi
+Czas szybko upływa, gdy się bawisz. - Zaman əylənəndə tez keçir.
+•  okoliczność - vəziyyət, hal
+W każdej okoliczności musimy być ostrożni. - Hər vəziyyətdə ehtiyatlı olmalıyıq.
+•  obowiązek - məsuliyyət
+To mój obowiązek, by pomóc ci. - Bu, sənə kömək etmək mənim məsuliyyətimdir.
+•  obowiązkowy - məcburi
+Udział w szkoleniu jest obowiązkowy. - Təlimdə iştirak məcburidir.
+•  kara + ć - cəza + landırmaq
+Muszę karać dzieci za złe zachowanie. - Pisiyləri pis davranışlarına görə cəzalandırmalıyım.
+•  odrębny - ayrı, ayrıca
+To jest odrębny dokument. - Bu ayrıca bir sənəddir.
+•  wymóg - tələb (şərt)
+Wymóg kwalifikacji był wysoki. - Tələblər yüksək idi.
+•  uzależnienie - asılılıq
+Uzależnienie od alkoholu jest poważnym problemem. - Alkoqol asılılığı ciddi bir problemdir.
+•  zawód - peşə
+Jaki zawód wykonujesz? - Hangi peşəni icra edirsən?
+•  przedłużyć - uzatmaq (müddəti)
+Muszę przedłużyć termin oddania pracy. - İşin təqdim etmə müddətini uzatmalıyım.
+•  termin - müddət, termin
+Termin składania wniosków upływa w przyszłym tygodniu. - Müraciətlərin verilməsi müddəti gələn həftə başa çatır.
+•  odwołać - ləğv etmək
+Muszę odwołać nasze spotkanie. - Görüşümüzü ləğv etməliyəm.
+•  właściwy - uyğun, əlaqəli
+To jest właściwy adres do kontaktu. - Bu, əlaqə üçün uyğun ünvandır.
+•  sprawa - məsələ, mövzu
+Ta sprawa wymaga naszej uwagi. - Bu məsələ bizim diqqətimizi tələb edir.
+•  doręczać - çatdırmaq
+Listy będą doręczane codziennie. - Mektublar gündəlik çatdırılacaq.
+•  w trakcie - ərzində, müddətində
+W trakcie spotkania omawialiśmy ważne tematy. - Görüş ərzində vacib mövzuları müzakirə etdik.
+•  zrzec się - imtina etmək, fikrindən daşınmaq
+Zrzeczenie się praw wymaga zgody obu stron. - Haqlardan imtina etmə hər iki tərəfin razılığı tələb edir.
+•  brak - əskik
+Zauważyłem brak niektórych dokumentów. - Bəzi sənədlərin əskikliyini fərq etdim.
+•  załącznik - attachment (emaildəki)
+Proszę sprawdzić załącznik do wiadomości. - Xahiş edirəm, mesajın əlavə faylını yoxlayın.
+•  płeć - cinsiyyət
+W formularzu musisz zaznaczyć swoją płeć. - Formularda cinsiyyətinizi işarələməlisiniz.
+•  stan cywilny - mədəni hal
+Jaki jest twój stan cywilny? - Sənin mədəni halın nədir?
+•  kawaler/panna - bekar kişi/qadın
+On jest kawalerem, a ona jest panną. - O, bekar kişidir, o isə bekar qadındır.
+•  żonaty/zamężna - evli kişi/qadın
+Jestem żonaty od pięciu lat. - Beş ildir evliyəm.
+•  rozwiedziony/a - boşanmış kişi/qadın
+Jest rozwiedziony, ale ma dzieci. - O, boşanmışdır, amma uşaqları var.
+•  w przypadku - ..olduğu halda, ..duğunda
+W przypadku problemów proszę dzwonić. - Problemlər olduğu halda zəng edin.
+•  trwały, stały - daimi
+To jest trwałe rozwiązanie problemu. - Bu problemin daimi həllidir.
+•  tymczasowy - müvəqqəti
+Mam tymczasowe mieszkanie w Warszawie. - Varşavada müvəqqəti bir evim var.
+•  równoważny - ekvivalentində
+Ten produkt ma równoważny odpowiednik. - Bu məhsulun ekvivalent versiyası var.
+•  kierunek - istiqamət
+Jakie masz kierunki studiów? - Hansı təhsil istiqamətlərin var?
+•  służbowy - iş(biznes) ilə əlaqədar
+Muszę napisać służbowy e-mail. - İş e-məktubu yazmalıyam.
+•  wizyta - ziyarət (visit)
+Mam umówioną wizytę u lekarza. - Həkimlə görüşüm var.
+•  urzędowy - rəsmi (oficjalny)
+To jest urzędowy dokument. - Bu, rəsmi sənəddir.
+•  wygląd - səbəbilə, ..xatir
+Wygląd tej strony internetowej jest nowoczesny. - Bu veb saytının görünüşü müasir görünür.
+•  przejmować - qəbul etmək (akceptować)
+Muszę przejmować odpowiedzialność za ten projekt. - Bu layihəyə görə məsuliyyəti qəbul etməliyəm.
+•  środek - orta, mərkəz
+Nasz środek zdrowia oferuje różne usługi. - Bizim səhiyyə mərkəzimiz müxtəlif xidmətlər təqdim edir.
+•  ubezpieczenie - siğorta
+Mam ubezpieczenie na życie. - Həyat sığortam var.
+•  'odmów + a' + ić - 'rədd' + etmək
+Zdecydował się odmówić tej oferty. - O, bu təklifi rədd etməyə qərar verdi.
+•  wiele - çox
+Wiele osób lubi podróżować. - Çox insan səyahət etməyi sevir.
+•  wielokrotny - çox saylı (multiple)
+Uczestniczyłem w wielokrotnych spotkaniach. - Mən bir neçə görüşdə iştirak etmişəm.
+•  hasło - şifrə
+Zapomniałem hasła do swojego konta. - Hesabımın şifrəsini unudmuşam.
+•  będące - mövcud, hazırki (problem)
+Będące problemy muszą zostać rozwiązane. - Mövcud problemlər həll edilməlidir.
+•  dotyczyć - aid olmaq, əlaqədar olmaq
+To ogłoszenie dotyczy nowej pracy. - Bu elan yeni işə aiddir.
+•  ogłoszenie - elan
+Widziałem ogłoszenie o sprzedaży samochodu. - Mən maşın satışına dair elanı gördüm.
+•  zapraszać - dəvət etmək
+Chciałem cię zaprosić na moją imprezę. - Səni şənliklərimə dəvət etmək istəyirdim.
+•  utrzymanie - yaşayış xərcləri, texniki qulluq
+Utrzymanie mieszkania jest kosztowne. - Mənzilin yaşayış xərcləri bahalıdır.
+•  ubiegać się - barşvuru etmək
+Zamierzam ubiegać się o nową pracę. - Yeni iş üçün müraciət etməyi planlayıram.
+•  gotówka - nağd (pul)
+Nie przyjmujemy gotówki w tej chwili. - Hazırda nağd pul qəbul etmirik.
+•  zakwaterowanie - yaşayış (akomodasiya)
+Potrzebuję zakwaterowania na wakacje. - Yay tətilləri üçün yaşayışa ehtiyacım var.
+•  pokryć - örtmək (cover)
+Muszę pokryć koszty podróży. - Səyahət xərclərini ödəməliyəm.
+•  zaświadczenie - sənəd, sertifikat
+Potrzebuję zaświadczenia o zatrudnieniu. - İşlədiyimi təsdiq edən sənədə ehtiyacım var.
+•  statek - gəmi
+Statek wypłynął w morze. - Gəmi dənizə açıldı.
+•  łyżka - qaşıq
+Poproszę łyżkę do zupy. - Məndən şorbaya qaşıq xahiş edin.
+•  kilka - bir neçə (kitab)
+Mam kilka książek do przeczytania. - Oxuyacağım bir neçə kitabım var.
+•  składnik - komponent, malzeme
+Ten składnik jest ważny w przepisie. - Bu komponent reseptdə vacibdir.
+•  jeszcze - hələ, hələ də
+Jeszcze nie skończyłem swojej pracy. - Hələ işimi tamamlamamışam.
+•  kawałek - parça, hissə
+Chciałbym kawałek ciasta. - Bir parça tort istəyirəm.
+•  stowarzyszenie - assosiasiya (təşkilat)
+Jestem członkiem stowarzyszenia ekologicznego. - Mən ekoloji assosiasiyanın üzvüyəm.
+•  handel - ticarət
+Handel międzynarodowy ma duże znaczenie. - Beynəlxalq ticarət böyük əhəmiyyətə malikdir.
+•  tożsamość - kimlik
+Musisz przedstawić dowód tożsamości. - Kimlik sübutunu təqdim etməlisiniz.
+•  dowód - sübut (dəlil)
+Musisz przedstawić dowód w sprawie. - Məsələdə sübut təqdim etməlisən.
+•  krewny - qohum
+Mój krewny przyjechał z zagranicy. - Mənim qohumum xaricdən gəlib.
+•  małżonek/małżonka - ər/arvad
+Mój małżonek pracuje w biurze. - Mənim ərim ofisdə işləyir.
+•  sąd - məhkəmə
+Sprawa będzie rozpatrywana w sądzie. - Məsələ məhkəmədə müzakirə olunacaq.
+•  całkowicie - tamamilə
+Jestem całkowicie pewny swojej decyzji. - Qərarımda tamamilə əminəm.
+•  świadomy - agah, xəbərdar
+Jestem świadomy konsekwencji moich działań. - Əməliyyatlarımın nəticələrini bilirəm.
+•  zawierać - içərmək, ehtiva etmək
+Ta umowa zawiera wiele ważnych informacji. - Bu müqavilə bir çox vacib məlumatı ehtiva edir.
+•  ukrywać - gizlətmək
+Nie powinnam ukrywać swoich uczuć. - Hisslərimi gizlətməməliyəm.
+•  s/powodować - səbəb olmaq
+To może powodować problemy w przyszłości. - Bu, gələcəkdə problemlərə səbəb ola bilər.
+•  już - artıq (already)
+Już wszystko jest gotowe. - Artıq hər şey hazırdır.
+•  opuszczać - tərk etmək
+Muszę opuszczać ten budynek. - Bu binanı tərk etməliyəm.
+•  nabywać - əldə etmək
+Planuję nabyć nowy samochód. - Yeni bir avtomobil əldə etməyi planlayıram.
+•  odszkodowanie - təzminat
+Otrzymałem odszkodowanie za straty. - Ziyan üçün təzminat aldım.
+•  skutek - nəticə
+Skutek tej decyzji był pozytywny. - Bu qərarın nəticəsi müsbət oldu.
+•  ponownie - təkrarən
+Proszę, ponownie wysłuchaj moje argumenty. - Zəhmət olmasa, arqumentlərimi təkrar dinləyin.
+•  znowu - yenidən (başlamaq)
+Znowu muszę zacząć od początku. - Yenidən başdan başlamaq məcburiyyətindəyəm.
+•  sprawdzać - yoxlamaq (check)
+Muszę sprawdzać moje e-maile codziennie. - Hər gün e-maillərimi yoxlamalıyam.
+•  wkraczać - müdaxilə etmək (intervene)
+Policja wkracza w sytuację kryzysową. - Polis böhran vəziyyətinə müdaxilə edir.
+•  rozwój - geliştirmə (development)
+Rozwój technologii zmienia nasze życie. - Texnologiyanın inkişafı həyatımızı dəyişir.
+•  rozwijać - geliştirmək (develop)
+Chcę rozwijać swoje umiejętności. - Bacarıqlarımı inkişaf etdirmək istəyirəm.
+•  niezbędny - əsas (hissə)
+To jest niezbędny element projektu. - Bu layihənin əsas elementidir.
+•  odpowiadać - cavab vermək
+Musisz odpowiedzieć na to pytanie. - Bu suala cavab verməlisən.
+•  anulować - ləğv etmək
+Zdecydowałem się anulować moje zamówienie. - Sifarişimi ləğv etməyə qərar verdim.
+•  strona - tərəf, səhifə
+Ta strona zawiera ważne informacje. - Bu səhifə vacib məlumatları ehtiva edir.
+•  list - məktub
+Napisałem list do mojego przyjaciela. - Dostuma məktub yazdım.
+•  intencja - niyyət (intent)
+Moja intencja była dobra. - Mənim niyyətim yaxşı idi.
+•  ustępować - baş vermək, meydana gəlmək
+Problemy zaczęły ustępować po konsultacji. - Məsələlər danışıqdan sonra baş verməyə başladı.
+•  kierować - yönləndirmək
+Musisz kierować ten projekt od początku. - Bu layihəni başlanğıcdan yönləndirməlisən.
+•  całkowity - toplam
+Całkowity koszt projektu wynosi 5000 zł. - Layihənin toplam xərci 5000 zlotidir.
+•  nadgodziny - mesai (overtime)
+Pracowałem nadgodziny, aby skończyć projekt. - Layihəni bitirmək üçün mesai etmişəm.
+•  zapewnić - təmin etmək
+Musimy zapewnić bezpieczeństwo pracowników. - İşçilərin təhlükəsizliyini təmin etməliyik.
+•  mniej - daha az
+Chcę jeść mniej cukru. - Daha az şəkər yemək istəyirəm.
+•  społeczny - sosial
+Wspieram inicjatywy społeczne w mojej społeczności. - İcama sosial təşəbbüsləri dəstəkləyirəm.
+•  rozmiesić - yerbəyer etmək (arrange)
+Rozmieszczam meble w nowym mieszkaniu. - Yeni mənzildə mebelləri yerbəyer edirəm.
+•  układać - düzmək (yerlərinə)
+Musisz układać książki według kategorii. - Kitabları kateqoriyalara görə düzəltdirməlisən.
+•  wyznaczyć - təyin etmək
+Wyznaczyłem termin spotkania na piątek. - Cümə günü görüşün tarixini təyin etdim.
+•  zarząd - idarə heyəti, administrasiya
+Zarząd podjął decyzję o zwiększeniu budżetu. - İdarə heyəti büdcəni artırma qərarını qəbul etdi.
+•  północ - şimal, gecəyarısı
+O północy wszyscy zebrali się na imprezie. - Gecəyarısı hər kəs tədbirdə toplandı.
+•  wschód - şərq
+Słońce wschodzi na wschodzie. - Günəş şərqdən doğur.
+•  południe - cənub
+W kierunku południa znajduje się wiele atrakcji turystycznych. - Cənub istiqamətində bir çox turistik cazibə var.
+•  zachód - qərb
+Zachód słońca był piękny dzisiaj. - Bu gün gün batımı gözəl idi.
+•  budynek - bina
+Ten budynek został zbudowany w latach 90-tych. - Bu bina 90-cı illərdə inşa edilib.
+•  należeć - məxsus olmaq
+Ta książka należy do mnie. - Bu kitab mənə aiddir.
+•  przeznaczyć - ayırmaq (yer)
+Przeznaczyłem ten pokój na biuro. - Bu otağı ofis üçün ayırmışam.
+•  znajdować się - yerləşmək
+Nasza firma znajduje się w centrum miasta. - Bizim şirkət şəhərin mərkəzində yerləşir.
+•  lotnisko - hava limanı
+Lotnisko jest oddalone o 20 km od miasta. - Hava limanı şəhərdən 20 km məsafədədir.
+•  chętny - istəkli, həvəsli
+Jestem chętny, aby pomóc w projekcie. - Layihədə kömək etməyə həvəsliyəm.
+•  rodak - həmyerli
+Spotkałem mojego rodaka podczas podróży. - Səyahətim zamanı həmyerlimlə rastlaşdım.
+•  przedsiębiorca - girşimçi, iş adamı
+Jestem przedsiębiorcą i prowadzę własną firmę. - Mən girşimçiyəm və öz işimi idarə edirəm.
+•  doświadczenie - təcrübə (experience)
+Mam doświadczenie w pracy z klientami. - Müştərilərlə iş təcrübəm var.
+•  powodzenie - müvəffəqiyyət, uğur
+Życzę ci powodzenia w nowej pracy. - Yeni işində uğurlar arzulayıram.
+•  teren - sahə, area
+Ten teren jest idealny do uprawy roślin. - Bu sahə bitki yetişdirmək üçün idealdır.
+•  dworzec - qatar stansiyası
+Musimy pojechać na dworzec, aby złapać pociąg. - Qatar stansiyasına getməliyik ki, qatarı tutaq.
+•  brzydki - çirkin
+Ten obraz jest brzydki. - Bu şəkil çirkindir.
+•  stąd - buradan
+Stąd można zobaczyć piękny widok. - Buradan gözəl mənzərəni görə bilərsən.
+•  wspaniały - möhtəşəm
+Wczorajszy koncert był wspaniały. - Dünənki konsert möhtəşəm idi.
+•  aż - qədər (until)
+Czekam aż przyjdziesz. - Sənin gəlməyini gözləyirəm.
+•  zbierać - toplamaq (collect)
+Lubię zbierać znaczki. - Mən markaları toplamağı sevirəm.
+•  ocena - dəyərləndirmə, reytinq
+Ocena tej książki jest bardzo wysoka. - Bu kitabın dəyərləndirməsi çox yüksəkdir.
+•  podkreślać - vurğulamaq
+Chcę podkreślić ważność tego projektu. - Bu layihənin əhəmiyyətini vurğulamaq istəyirəm.
+•  korzystny - faydalı, sərfəli
+To była korzystna transakcja. - Bu sərfəli bir əməliyyat idi.
+•  wytrzymywać - dayandırmaq (işi)
+Nie mogę wytrzymać dłużej w tej pracy. - Bu işdə daha uzun müddət dayana bilmirəm.
+•  z/wiązać - bağlamaq (ipi)
+Musisz związać ten sznurek. - Bu ipi bağlamalısan.
+•  działać - çalışma, hərəkət etmək
+Ten program działa bardzo dobrze. - Bu proqram çox yaxşı işləyir.
+•  uważać - diqqət yetirmək
+Musisz uważać na drogę. - Yola diqqət yetirməlisən.
+•  iż - ki (bağlayıcı)
+Wiem, iż to jest prawda. - Bilirəm ki, bu doğrudur.
+•  szczegółowy - ətraflı
+Przedstaw mi szczegółowy plan. - Mənə ətraflı plan təqdim et.
+•  (prze)szkolić - tədris etmək (təlim)
+Muszę przeszkolić nowych pracowników. - Yeni işçiləri tədris etməliyəm.
+•  przyszłość - gələcək (zaman)
+Martwi mnie przyszłość tej firmy. - Bu şirkətin gələcəyi məni narahat edir.
+•  rozwiąz + 'anie' / ywać - 'həll' / etmək
+Rozwiązywanie problemów jest ważne. - Problemlərin həlli vacibdir.
+•  były - bundan əvvəlki (former)
+Mój były partner jest teraz szczęśliwy. - Mənim əvvəlki tərəfdaşım indi xoşbəxtdir.
+•  lot - uçuş (flight)
+Mój lot do Warszawy jest opóźniony. - Varşavaya uçuşum gecikir.
+•  Nie ma za co - dəyməz..
+Dziękuję za pomoc! - Nie ma za co! - Kömək üçün təşəkkür edirəm! Dəyməz!
+•  natychmiast - dərhal
+Musisz to zrobić natychmiast. - Bunu dərhal etməlisən.
+•  zjednoczyć - birləşmək
+Chcemy zjednoczyć siły, aby osiągnąć sukces. - Uğur qazanmaq üçün birləşmək istəyirik.
+•  niestety - təəssüf ki
+Niestety, nie mogę przyjść dzisiaj. - Təəssüf ki, bu gün gələ bilmirəm.
+•  państwo - xanım və cənab (Mr. & Mrs.)
+Witamy państwo w naszym hotelu. - Xanım və cənabları otelimizdə salamlamağa məmnunam.
+•  kawiarnia - cafe
+Spotykamy się w kawiarni o 16:00. - Saat 16:00-da kafedə görüşəcəyik.
+•  pozdrawiamy - Hörmətlə,...
+Pozdrawiamy wszystkich naszych przyjaciół. - Hörmətlə, bütün dostlarımızı salamlayırıq.
+•  aleja - prospekt
+Ta aleja jest bardzo szeroka. - Bu prospekt çox genişdir.
+•  rondo - kruq
+Musisz jechać przez rondo. - Ronda daxil olmalısan.
+•  plac - meydan
+Spotkamy się na placu. - Meydanda görüşəcəyik.
+•  małpa - meymun, @ işarəsi
+Wysyłam e-mail z małpą w adresie. - Adresdəki işarə ilə e-mail göndərirəm.
+•  kropka - nöqtə
+Proszę postawić kropkę na końcu zdania. - Cümlənin sonunda nöqtə qoyun, zəhmət olmasa.
+•  czasownik - fel
+Czasownik to część mowy, która opisuje czynność. - Fel, hərəkəti təsvir edən nitq hissəsidir.
+•  latać - uçmaq
+Lubię latać samolotem. - Mən təyyarə ilə uçmağı sevirəm.
+•  zwiedzać - gəzmək, etmə
+Zamierzam zwiedzać wszystkie zabytki w mieście. - Şəhərdəki bütün tarixi yerləri gəzəcəyəm.
+•  śpiewać - mahnı oxumaq
+Ona lubi śpiewać w wolnym czasie. - O, boş vaxtlarında mahnı oxumağı sevir.
+•  szukać - axtarmaq
+Szukam mojej książki. - Kitabımı axtarıram.
+•  siostra - bacı
+Moja siostra jest bardzo miła. - Bacım çox xeyirxahdır.
+•  dziadek - baba
+Mój dziadek opowiada ciekawe historie. - Babam maraqlı hekayələr danışır.
+•  babcia - nənə
+Babcia piecze najlepsze ciasta. - Nənəm ən yaxşı tortları bişirir.
+•  mąż - ər
+Mój mąż pracuje w biurze. - Mənim ərim ofisdə işləyir.
+•  żona - arvad
+Jej żona jest lekarzem. - Onun arvadı həkimdir.
+•  małżeństwo - evlilik
+Ich małżeństwo trwa już pięć lat. - Onların evliliyi artıq beş ildir.
+•  wnuczek/ka - nəvə (k/q)
+Mój wnuczek bardzo lubi bawić się na dworze. - Nəvəm çöldə oynamağı çox sevir.
+•  rzeczownik - isim (qrammatika)
+Rzeczownik jest jedną z podstawowych części mowy. - İsim, nitqin əsas hissələrindən biridir.
+•  ciasto - tort
+Kupiłem ciasto na urodziny. - Ad günüm üçün tort almışam.
+•  cebula - soğan
+Do zupy potrzebujemy cebuli. - Şorbaya soğan lazımdır.
+•  ziemniak/ kartofel - kartof
+Ziemniaki są podstawowym składnikiem wielu potraw. - Kartoflar bir çox yeməyin əsas tərkib hissəsidir.
+•  mydło - sabun
+Kupmy mydło do mycia rąk. - Əllərin yuyulması üçün sabun alaq.
+•  rodzeństwo - bacı-qardaş (sibling)
+Mam rodzeństwo, dwóch braci i jedną siostrę. - Bacı-qardaşım var, iki qardaş və bir bacı.
+•  głodny - ac
+Jestem głodny, chciałbym coś zjeść. - Acam, bir şey yemək istəyirəm.
+•  mięso - ət
+Wczoraj kupiłem świeże mięso na obiad. - Dünün ətini nahar üçün almışam.
+•  wieprzowina - 'donuz' əti ('świnja')
+Wieprzowina jest popularnym mięsem w Polsce. - Donuz əti Polşada məşhur bir ət növüdür.
+•  miód - bal
+Miód jest zdrowy i smaczny. - Bal sağlam və dadlıdır.
+•  zupa - sup
+Na obiad zjem zupę pomidorową. - Nahar üçün pomidor supu yeyəcəyəm.
+•  złoty - pul vahidi (Polşanın)
+Polski złoty jest stabilną walutą. - Polşanın złoty pul vahidi stabil bir valyutadır.
+•  groszy - qəpik
+Mamy wiele groszy w portfelu. - Cüzdanımızda çox qəpik var.
+•  złoto - qızıl
+Złoto jest bardzo cennym metalem. - Qızıl çox dəyərli bir metaldır.
+•  napoje - içkilər
+W sklepie są różne napoje. - Dükanlarda müxtəlif içkilər var.
+•  brązowy - qəhvəyi
+To jest brązowy kolor. - Bu, qəhvəyi rəngdir.
+•  pomarańczowy - portağal rəngi
+Pomarańczowy jest kolorem, który kojarzy się z latem. - Portağal rəngi yayla əlaqəlidir.
+•  szary - boz
+Szary kolor jest neutralny. - Boz rəng neytral bir rəngdir.
+•  zwykle - adətən
+Zwykle piję kawę rano. - Adətən səhər qəhvə içirəm.
+•  nadal - hələ də
+Nadal czekam na twoją odpowiedź. - Hələ də cavabını gözləyirəm.
+•  do zobaczenia - görüşənədək
+Do zobaczenia jutro! - Görüşənədək sabah!
+•  byłoby - olardı ...(yaxşı)
+Byłoby świetnie, gdybyśmy się spotkali. - Görüşsək yaxşı olardı.
+•  chciałbyś - etmək istəmək (would like)
+Chciałbyś pójść na spacer? - Gəzintiyə getmək istərsən?
+•  zajęty - məşğul
+Jestem teraz zajęty pracą. - İndi işlə məşğulam.
+•  razem - birlikdə
+Chodźmy razem na zakupy. - Gəlin birlikdə alış-verişə gedək.
+•  wystarczająco - kifayət qədər
+To jest wystarczająco dobra oferta. - Bu, kifayət qədər yaxşı bir təklifdir.
+•  kanapka - sandviç
+Zjadłem pyszną kanapkę na lunch. - Nahar üçün dadlı bir sandviç yedim.
+•  kolejny - növbəti
+Czekam na kolejny autobus. - Növbəti avtobusu gözləyirəm.
+•  czemu/dlaczego - niyə?
+Czemu się spóźniłeś? - Niyə gecikmisən?
+•  przykro mi - təəsüfləndim (xəstələnməyinə)
+Przykro mi, że jesteś chory. - Xəstə olmağına görə təəssüflənirəm.
+•  mam(mieć) nadzieję - ümid varam...
+Mam nadzieję, że wszystko będzie dobrze. - Ümidvaram ki, hər şey yaxşı olacaq.
+•  prawnik/adwokat - vəkil
+On jest prawnikiem w dużej firmie. - O, böyük bir şirkətdə vəkildir.
+•  biegły - səlis (fluent)
+Mówi biegłym angielskim. - O, səlis ingilis dilində danışır.
+•  facet - oğlan, gənc
+To jest mój facet. - Bu, mənim oğlumdur.
+•  przystojny - yaraşıqlı
+On jest przystojny mężczyzną. - O, yaraşıqlı bir kişidir.
+•  go/jego - onu
+Widzę go w parku. - Onu parkda görürəm.
+•  ją - ondan (q)
+Znam ją od lat. - Onu illərdir tanıyıram.
+•  kubek - krujka
+Poproszę kubek herbaty. - Bir krujka çay istəyirəm.
+•  plecak - bel çantası
+Noszę plecak do szkoły. - Məktəbə bel çantası aparıram.
+•  ściana - divar
+Ściana w tym pokoju jest niebieska. - Bu otaqdakı divar mavi rəngdədir.
+•  spóźnienie - gecikmə
+Przepraszam za spóźnienie. - Gecikdiyim üçün üzr istəyirəm.
+•  wysiadać - enmək, çıxmaq (maşından)
+Musisz wysiadać na następnej stacji. - Növbəti stansiyada enməlisən.
+•  piętro - mərtəbə
+Mieszkam na trzecim piętrze. - Mən üçüncü mərtəbədə yaşayıram.
+•  wciąż - hələ də
+Wciąż czekam na twoją odpowiedź. - Hələ də cavabını gözləyirəm.
+•  orazja - fürsət
+To jest świetna okazja! - Bu, əla fürsətdir!
+•  ćwiczyć - məşq etmək (practice)
+Muszę ćwiczyć więcej, aby poprawić swoje umiejętności. - Bacarıqlarımı artırmaq üçün daha çox məşq etməliyəm.
+•  opowiadać - söyləmək
+Lubię opowiadać historie. - Hekayələr söyləməyi sevirəm.
+•  kłamstwo - yalan
+Kłamstwo zawsze wychodzi na jaw. - Yalan həmişə açığa çıxır.
+•  kłamać - yalan danışmaq
+Nie lubię, gdy ktoś kłamie. - Kimsə yalan danışanda xoşlamıram.
+•  oszukiwać - aldatmaq
+Nie można oszukiwać swoich przyjaciół. - Dostlarını aldatmaq olmaz.
+•  zeszły - keçən (il)
+W zeszłym roku dużo podróżowałem. - Keçən il çox səyahət etdim.
+•  wyglądać na - görünmək (yaraşıqlı)
+On wygląda na szczęśliwego. - O, xoşbəxt görünür.
+•  wszyscy - hər kəs
+Wszyscy są zaproszeni na przyjęcie. - Hər kəs dəvətlidir.
+•  wiek - yaş, əsr
+Wiek średni to fascynujący okres w historii. - Orta əsrlər tarixdə maraqlı bir dövrdür.
+•  z nią/nim - onunla (q/k)
+Chcę porozmawiać z nią. - Onunla danışmaq istəyirəm.
+•  temu - əvvəl (3 il)
+Trzy lata temu byłem w Warszawie. - Üç il əvvəl Varşavada idim.
+•  księgowy - mühasib
+Mój tata jest księgowym. - Atam mühasibdir.
+•  poszedł - getdi
+Poszedł na zakupy. - O, alış-verişə getdi.
+•  ciesz się - şad olmaq
+Ciesz się każdą chwilą! - Hər anın dəyərini bil!
+•  jasne! - əlbəttə
+Jasne! Chętnie pomogę. - Əlbəttə! Kömək etməyə şad olaram.
+•  popołudnie - günorta (p.m.)
+Dobre popołudnie! - Yaxşı günorta!
+•  przyjęcie - qonaqlıq, parti
+Mamy przyjęcie urodzinowe w sobotę. - Şənbə günü doğum günü partimiz var.
+•  skończyć - bitirmək, başa vurmaq
+Muszę skończyć pracę do jutra. - İşimi sabaha qədər bitirməliyəm.
+•  zaskoczyć - sürpriz etmək
+Chcę cię zaskoczyć niespodzianką. - Səni sürprizlə təəccübləndirmək istəyirəm.
+•  w każdym razie - hər nəysə.. (anyway)
+W każdym razie, będę tam jutro. - Hər nəysə, sabah orada olacağam.
+•  dotrzeć - çatdırmaq
+Musisz dotrzeć na czas. - Vaxtında çatmalısan.
+•  bałagan - dağıntı (otaq)
+W tym pokoju jest bałagan! - Bu otaqda dağıntı var!
+•  zanim - əvvəl
+Zanim wyjdziesz, zamknij drzwi. - Çıxmazdan əvvəl qapını bağla.
+•  ubranie/odzież - paltar
+Muszę kupić nowe ubranie. - Yeni paltar almaq lazımdır.
+•  pranie - laundry
+Robię pranie w sobotę. - Şənbə günü paltar yuyuram.
+•  brudny - kirli
+Mam brudne ręce po ogrodzie. - Bağdan sonra əllərim kirli oldu.
+•  dawno - uzun müddətdir ki,
+Dawno się nie widzieliśmy. - Uzun müddətdir ki, görüşmürük.
+•  patrzeć - baxmaq
+Lubię patrzeć na gwiazdy w nocy. - Gecə ulduzlara baxmağı sevirəm.
+•  popatrz! - bəri bax!
+Popatrz! Jak piękny widok! - Bəri bax! Nə qədər gözəl mənzərədir!
+•  zbyt - çox (very)
+To jest zbyt drogie. - Bu, çox bahadır.
+•  trzeba - /malı,məli
+Trzeba to zrobić. - Bunu etmək lazımdır.
+•  śpieszyć się - tələsmək
+Nie śpiesz się, mamy dużo czasu. - Tələsmə, bizim çox vaxtımız var.
+•  pośpiesz się! - tələs!
+Pośpiesz się, spóźnimy się! - Tələs, gecikəcəyik!
+•  wróć - geri qayıtmaq
+Wróć do domu, jest już późno. - Geri evə qayıt, artıq gecdir.
+•  chyba - güman edirəm ki,
+Chyba wiem, o co ci chodzi. - Güman edirəm ki, nə demək istədiyini bilirəm.
+•  wygodny - əlverişli, rahat
+Ten fotel jest bardzo wygodny. - Bu kreslo çox rahatdır.
+•  fajny - cool (görünmək)
+Masz fajny t-shirt! - Sən çox cool tişört geyinirsən!
+•  sądzić - düşünmək
+Myślę, że sądzisz słusznie. - Düşünürəm ki, haqlı düşünürsən.
+•  zamiar - niyyət
+Mam zamiar wyjechać na wakacje. - Yayda səyahət etməyi planlayıram.
+•  licencjat - bakalavr dərəcəsi
+Ukończyłem studia licencjackie. - Bakalavr dərəcəsini bitirmişəm.
+•  zdobyć - qazanmaq, əldə etmək
+Chcę zdobyć nowe umiejętności. - Yeni bacarıqlar qazanmaq istəyirəm.
+•  zająć - zəbt etmək (occupy)
+Kto zajmuje ten pokój? - Bu otağı kim zəbt edib?
+•  witryna internetowa - vebsayt
+Odwiedziłem nową witrynę internetową. - Yeni bir vebsaytı ziyarət etdim.
+•  tak czy inaczej - hər iki halda..
+Tak czy inaczej, musimy działać. - Hər iki halda, hərəkət etməliyik.
+•  nie ma znaczenia - önəmi deyil..
+Nie ma znaczenia, co myślą inni. - Başqalarının nə düşündüyü önəmi deyil.
+•  wiadomość - xəbər
+Otrzymałem wiadomość od przyjaciela. - Dostumdan xəbər aldım.
+•  zginąć - ölmək (qəzada)
+W wypadku zginęły dwie osoby. - Qəza nəticəsində iki nəfər ölüb.
+•  straszny - dəhşətli (ölüm)
+To był straszny film. - Bu dəhşətli bir filmdə.
+•  zazwyczaj - adətən
+Zazwyczaj chodzę spać o 22. - Adətən, saat 22:00-da yatıram.
+•  włącz + yć/ać - işə salmaq (kompyuteri)
+Włącz komputer, proszę. - Kompüteri işə sal, zəhmət olmasa.
+•  kiedykolwiek - nə vaxtsa
+Możesz przyjść kiedykolwiek. - İstədiyin zaman gələ bilərsən.
+•  więcej - daha çox (more)
+Chcę więcej informacji. - Daha çox məlumat istəyirəm.
+•  właściwie - həqiqətən (actually)
+Właściwie nie mam czasu. - Həqiqətən vaxtım yoxdur.
+•  umieć, potrafić - qadir olmaq (able)
+Umiem mówić po angielsku. - İngilis dilində danışa bilirəm.
+•  otrzymać - qəbul etmək (receive)
+Otrzymałem prezent na urodziny. - Doğum günümdə hədiyyə aldım.
+•  danie - yemək
+Moim ulubionym daniem jest pizza. - Sevimli yeməyim pizzadır.
+•  zamierzać - niyyətində olmaq
+Zamierzam wyjechać na wakacje. - Yayda səyahət etməyi planlayıram.
+•  niepokoić - narahat etmək
+To mnie niepokoi. - Bu məni narahat edir.
+•  z tobą - səninlə
+Chciałbym być z tobą. - Səninlə olmaq istəyirəm.
+•  dołaczyć - qatılmaq (join)
+Chcę dołączyć do tej grupy. - Bu qrupa qatılmaq istəyirəm.
+•  brzmieć - səslənmək (sound)
+To brzmi świetnie! - Bu, əla səslənir!
+•  omawiać - müzakirə etmək
+Musimy omówić ten temat. - Bu mövzunu müzakirə etməliyik.
+•  dorastać - böyümək
+Dorastałem w małym miasteczku. - Kiçik bir şəhərdə böyümüşəm.
+•  bohater - qəhrəman
+On jest moim bohaterem. - O, mənim qəhrəmanımdır.
+•  brać udział - iştirak etmək
+Chcę brać udział w tym wydarzeniu. - Bu tədbirdə iştirak etmək istəyirəm.
+•  zawody - yarışma
+Uczestniczyłem w zawodach sportowych. - İdman yarışmasında iştirak etmişəm.
+•  po/trwać - müddət çəkmək (to last)
+To może trwać dłużej niż myślimy. - Bu, düşündüyümüzdən daha uzun müddət çəkə bilər.
+•  pozdrowienie, powitanie - salamlaşma
+Wysłaliśmy mu serdeczne pozdrowienie. - Ona salamlaşma göndərdik.
+•  zastanawiać się - arzusunda olmaq
+Zastanawiam się nad przyszłością. - Gələcək haqqında arzusundayam.
+•  wspominać - qeyd etmək
+Wspomniałem o tym wydarzeniu. - Bu hadisəni qeyd etdim.
+•  zgadywać - təxmin etmək
+Zgaduję, że to będzie trudne. - Təxmin edirəm ki, bu çətin olacaq.
+•  doskonały - möhtəşəm (perfect)
+To był doskonały występ. - Bu möhtəşəm bir performans idi.
+•  jak sprawy? - necədir? (how things)
+Jak sprawy? - Necəsən?
+•  drukarka - printer
+Moja drukarka jest zepsuta. - Printerim xarab olub.
+•  atrament - mürəkkəb
+Potrzebuję nowego atramentu do drukarki. - Printerim üçün yeni mürəkkəbə ehtiyacım var.
+•  wyłączać - söndürmək (kompyuteri)
+Musisz wyłączyć komputer przed snem. - Yatmazdan əvvəl kompüteri söndürməlisən.
+•  później - sonra (later)
+Spotkamy się później. - Sonra görüşəcəyik.
+•  odbiór - çəkim (telefon siqnalının), qəbul
+Odbiór sygnału był słaby. - Siqnalın çəkimi zəif idi.
+•  wziąć - götürmək
+Chcę wziąć ten książkę. - Bu kitabı götürmək istəyirəm.
+•  weź + mę/miesz - o/mən/sən götür
+Weź to ze sobą. - Bunu özünlə götür.
+•  kiedykolwiek - haçansa
+Możesz przyjść kiedykolwiek. - Haçansa gələ bilərsən.
+•  okropny - bərbad
+To była okropna decyzja. - Bu, bərbad bir qərar idi.
+•  na szczęście - xoşbəxtlikdən
+Na szczęście, udało się to zrobić. - Xoşbəxtlikdən, bunu etmək mümkün oldu.
+•  oceniać - dəyərləndirmək qiymətləndirmək
+Muszę ocenić ten projekt. - Bu layihəni dəyərləndirməliyəm.
+•  dosta + ć /wać - almaq
+Chcę dostać nowe zadanie. - Yeni bir tapşırıq almaq istəyirəm.
+•  przyzwoity - lazımlı
+To był przyzwoity film. - Bu, lazımlı bir film idi.
+•  krzywa - əyri
+Ta krzywa jest bardzo stroma. - Bu əyri çox dikdir.
+•  ścisły - dəqiq
+Musisz być ścisły w swoich danych. - Məlumatlarında dəqiq olmalısan.
+•  czas trwania - müddət
+Czas trwania filmu wynosi dwie godziny. - Filmin müddəti iki saatdır.
+•  uruchomić - başlatmaq
+Musisz uruchomić komputer. - Kompüteri başlatmalısan.
+•  w razie - /olduğu halda
+W razie problemów, zadzwoń do mnie. - Problemlər olduğu halda, mənə zəng et.
+•  błędnie - səhv (olaraq)
+Błędnie zrozumiałem twoje pytanie. - Sualını səhv anladım.
+•  bawić się - oynamaq (oyuncaqla)
+Dzieci bawią się w ogrodzie. - Uşaqlar bağda oynayırlar.
+•  cienki - incə
+Ten papier jest bardzo cienki. - Bu kağız çox incədir.
+•  gruby - qalın
+Książka ma gruby tom. - Kitab qalın bir cildədir.
+•  tani - ucuz
+To jest tani produkt. - Bu, ucuz bir məhsuldur.
+•  drogi - bahalı
+Ten samochód jest bardzo drogi. - Bu avtomobil çox bahalıdır.
+•  wesoły - şən
+Dzieci są zawsze wesołe. - Uşaqlar hər zaman şəndirlər.
+•  smutny - qəmgin
+On wygląda na smutnego. - O, qəmgin görünür.
+•  koleżanka - rəfiqə
+Moja koleżanka jest miła. - Mənim rəfiqəm yaxşıdır.
+•  słodki - şirin
+To ciasto jest bardzo słodkie. - Bu tort çox şirindir.
+•  biurko - masa
+Mam nowe biurko w moim pokoju. - Otağımda yeni masa var.
+•  odpoczy + wać /nek - dincəlmək
+Musisz odpocząć po pracy. - İşdən sonra dincəlməlisən.
+•  z/denerwować - əsəbiləşmək
+Nie denerwuj się bez powodu. - Heç bir səbəb olmadan əsəbiləşmə.
+•  zły - əsəbi
+Jestem zły na niego. - Ondan əsəbi oldum.
+•  zadowolony - məmnun
+Jestem zadowolony z wyników. - Nəticələrdən məmnunam.
+•  ruch - hərəkət, trafik
+Ruch na ulicy jest duży. - Küçədə hərəkət çoxdur.
+•  życzyć - arzulamaq
+Życzę ci dużo szczęścia. - Sənə çox xoşbəxtlik arzulayıram.
+•  życzenie - arzu, istək
+Moim życzeniem jest podróż dookoła świata. - Mənim arzum dünyanı dolaşmaqdır.
+•  okazja - fürsət
+To była świetna okazja. - Bu, mükəmməl bir fürsət idi.
+•  korek - tıxac
+Był duży korek na drodze. - Yolda böyük bir tıxac vardı.
+•  charytatywna - xeyriyyə
+Organizujemy charytatywną zbiórkę pieniędzy. - Xeyriyyə məqsədli pul toplayırıq.
+•  ciągle - hər zaman, mütəmadi olaraq
+Ciągle myślę o tej sprawie. - Hər zaman bu məsələni düşünürəm.
+•  stopień - dərəcə
+Temperatura wynosi dzisiaj 20 stopni. - Bugünkü temperatur 20 dərəcədir.
+•  głośno - ucadan (danış)
+Mówił głośno, żeby go usłyszeli. - O, ucadan danışdı ki, onu eşitsinlər.
+•  połączyć - birləşdirmək, əlaqələndirmək
+Musisz połączyć te dwa dokumenty. - Bu iki sənədi birləşdirməlisən.
+•  dokąd - hara, haraya
+Dokąd idziesz dzisiaj? - Bu gün hara gedirsən?
+•  zaloguj się - giriş etmək
+Zaloguj się na swoje konto. - Öz hesabınıza giriş edin.
+•  wylogować się - çıxış etmək (hesabdan)
+Nie zapomnij wylogować się po użyciu. - İstifadədən sonra çıxış etməyi unutmayın.
+•  udzielać - vermək, hibe etmek
+On udziela pomocy potrzebującym. - O, ehtiyacı olanlara yardım edir.
+•  kliknij - klikləmək
+Kliknij tutaj, aby kontynuować. - Davam etmək üçün bura klikləyin.
+•  gust - zövq
+Ma dobry gust w modzie. - Onun modada yaxşı zövqü var.
+•  wyrażać - ifadə etmək (fikrini)
+Możesz wyrażać swoje opinie swobodnie. - Fikirlərini sərbəst ifadə edə bilərsən.
+•  niemal - demək olar ki
+Niemal wszyscy się zgodzili. - Demək olar ki, hamı razılaşdı.
+•  przebój - hit, populyar (mahnılar)
+To był przebój lata. - Bu, yay ayının hit mahnısı idi.
+•  malarstwo - rəsm sənəti
+Interesuje się malarstwem. - Rəsm sənətinə maraqlıdır.
+•  pióro - qələm
+Lubi pisać piórem. - O, qələmlə yazmağı sevir.
+•  wieczny - sonsuz
+Ma wieczny uśmiech na twarzy. - Üzündə sonsuz bir təbəssüm var.
+•  zawodnik - yarışmaçı
+Każdy zawodnik jest dobrze przygotowany. - Hər bir yarışmaçı yaxşı hazırlaşıb.
+•  święto - bayram
+Dziś obchodzimy ważne święto. - Bu gün vacib bir bayram qeyd edirik.
+•  szpital - xəstəxana
+Musi iść do szpitala. - Xəstəxanaya getməlidir.
+•  za granicą - ölkə xaricində
+Pracuje za granicą od lat. - İllərdir ölkə xaricində işləyir.
+•  spóźnić się - gec qalmaq
+Nie chcę się spóźnić na spotkanie. - Görüşə gec qalmaq istəmirəm.
+•  umawiać się - görüş təyin etmək
+Umawiamy się na sobotę. - Görüşü şənbə günü üçün təyin edirik.
+•  nawias - mötərizə
+Użyj nawiasów, aby podkreślić słowa. - Sözləri vurğulamaq üçün mötərizə istifadə et.
+•  znajomy - tanış
+Spotkałem znajomego na ulicy. - Küçədə bir tanışla qarşılaşdım.
+•  tęsknić za - darıxmaq (kimdən ötrüsə də)
+Tęsknię za tobą. - Səndən ötrü darıxıram.
+•  uczelnia - universitet
+Studenci uczą się na uczelni. - Tələbələr universitetdə təhsil alır.
+•  wykład - dərs
+Wczoraj był ciekawy wykład. - Dünən maraqlı bir dərs oldu.
+•  znany - tanınmış
+Jest znanym artystą. - O, tanınmış bir sənətkardır.
+•  zwykły - adi, sıradan
+To był zwykły dzień. - Bu adi bir gün idi.
+•  odpowiedzialny - məsul, məsuliyətli
+On jest bardzo odpowiedzialny. - O, çox məsuliyyətlidir.
+•  wyjątkowy - məxsusi (insan)
+On jest wyjątkowym człowiekiem. - O, məxsusi bir insandır.
+•  zdolny - istedadlı
+Jest bardzo zdolny w matematyce. - O, riyaziyyatda çox istedadlıdır.
+•  angażować się - müdaxil olmaq
+Lubi angażować się w różne projekty. - Müxtəlif layihələrə müdaxil olmağı sevir.
+•  związek - münasibət
+Mają bliski związek. - Onların yaxın münasibətləri var.
+•  rada - məsləhət
+Dziękuję za twoją radę. - Məsləhətin üçün təşəkkür edirəm.
+•  prośba - istək, xahiş
+Mam do ciebie prośbę. - Səndən bir xahişim var.
+•  schronisko - sığınacaq
+Znalazł schronisko dla bezdomnych. - Evsizlər üçün bir sığınacaq tapdı.
+•  wziąć udział - iştirak etmək
+Chciałbym wziąć udział w konkursie. - Müsabiqədə iştirak etmək istəyirəm.
+•  pasjonować - həvəsli olmaq (nəyəsə) (passionate)
+Pasjonuje się muzyką. - Musiqiyə həvəs göstərir.
+•  osiągnięcie - nailiyyət
+To jest jego największe osiągnięcie. - Bu, onun ən böyük nailiyyətidir.
+•  pasj - şövq, ehtiras (passion)
+Ma pasję do malowania. - Rəsmlə məşğul olmağa ehtirası var.
+•  odnowić - yeniləmək
+Planuje odnowić mieszkanie. - Mənzili yeniləməyi planlaşdırır.
+•  umyć - yumaq (qabları)
+Muszę umyć naczynia. - Qabları yumaq lazımdır.
+•  talerz - boşqab
+Na stole leży talerz. - Stolun üstündə bir boşqab var.
+•  świeży - təzə
+Kupiłem świeże owoce. - Təzə meyvələr aldım.
+•  owoc - meyvə
+Uwielbiam jeść owoce. - Meyvə yeməyi çox sevirəm.
+•  obok - yanında
+Usiądź obok mnie. - Mənim yanımda otur.
+•  suszyć - qurutmaq (meyvəni)
+Suszy owoce na słońcu. - Meyvələri günəşdə qurudur.
+•  piec - bişirmək (sobada)
+Będę piec ciasto. - Tort bişirəcəm.
+•  powiesić - asmaq
+Powieś ubrania na wieszaku. - Paltarları asılqanda as.
+•  u - da/də, yanında
+Spotkamy się u mnie w domu. - Evimdə görüşərik.
+•  zegar - divar saatı
+Zegar na ścianie jest zepsuty. - Divardakı saat xarabdır.
+•  stolarz - dülgər
+Ten stolarz robi piękne meble. - Bu dülgər gözəl mebellər hazırlayır.
+•  ręcznie - əl ilə (manual)
+Te ręcznie robione przedmioty są wyjątkowe. - Bu əl ilə hazırlanan əşyalar məxsusidir.
+•  pralka - paltayuyan
+Muszę włożyć ubrania do pralki. - Paltarları paltayuyana qoymalıyam.
+•  wadliwy - qüsurlu (mal)
+Ten produkt jest wadliwy. - Bu məhsul qüsurludur.
+•  wypożyczać - kirayələmək (maşın)
+Wypożyczyłem samochód na weekend. - Maşını həftəsonu üçün kirayələdim.
+•  ubiegły - keçən, əvvəlki (həftə)
+W ubiegłym tygodniu było zimno. - Keçən həftə hava soyuq idi.
+•  pożyczka - kredit
+Wziąłem pożyczkę na mieszkanie. - Ev üçün kredit götürdüm.
+•  odbyć się - baş tutmaq, həyata keçmək
+Koncert odbył się wczoraj. - Konsert dünən baş tutdu.
+•  warsztat - məşğələ, atolye
+Wzięłam udział w warsztacie malarskim. - Rəsm məşğələsində iştirak etdim.
+•  od razu - dərhal, az sonra
+Zadzwoń do mnie od razu po pracy. - İşdən dərhal sonra mənə zəng et.
+•  obóz - düşərgə, kamp
+Pojechaliśmy na obóz letni. - Yay düşərgəsinə getdik.
+•  ćwiczenie - məşq
+Codzienne ćwiczenie jest ważne dla zdrowia. - Gündəlik məşq sağlamlıq üçün vacibdir.
+•  pyszny - ləzzətli
+To ciasto jest naprawdę pyszne. - Bu tort həqiqətən ləzzətlidir.
+•  prawo jazdy - sürücülük vəsiqəsi
+Mam prawo jazdy od dwóch lat. - İki ildir sürücülük vəsiqəm var.
+•  od dawna - uzun zamandan bəri
+Nie widzieliśmy się od dawna. - Uzun zamandır görüşməmişik.
+•  wykładowca - mühazirəçi, universitet müəllimi
+Mój wykładowca jest bardzo wymagający. - Mühazirəçim çox tələbkardır.
+•  siłownia - idman zalı
+Chodzę na siłownię trzy razy w tygodniu. - Həftədə üç dəfə idman zalına gedirəm.
+•  umiejętność - bacarıq
+To jest umiejętność, którą trzeba ćwiczyć. - Bu, məşq edilməli olan bir bacarıqdır.
+•  kibicować - təşviq etmək, azarkeşlik etmək
+Kibicuję naszej drużynie. - Komandamıza azarkeşlik edirəm.
+•  kręgle - bovlinq
+Gramy w kręgle co sobotę. - Hər şənbə bovlinq oynayırıq.
+•  koń - at
+Jeździłem na koniu w górach. - Dağlarda ata mindim.
+•  radzić sobie - öhdəsindən gəlmək
+Ona świetnie sobie radzi w pracy. - O, işdə əla öhdəsindən gəlir.
+•  psuć - xarab etmək, zərər vermək
+Deszcz może popsuć nasze plany. - Yağış planlarımızı xarab edə bilər.
+•  wzrok - görmə
+Ma dobry wzrok. - Onun görmə qabiliyyəti yaxşıdır.
+•  powtarzać - təkrar etmək
+Powtarzam słowa, aby je zapamiętać. - Sözləri yadda saxlamaq üçün təkrar edirəm.
+•  ulga - rahatlaşma
+Czułem ulgę po egzaminie. - İmtahandan sonra rahatlaşdım.
+•  kłaść nacisk - vurğulamaq
+Nauczyciel kładzie nacisk na naukę słówek. - Müəllim sözlərin öyrənilməsini vurğulayır.
+•  współpraca - əməkdaşlıq
+Cenię sobie współpracę z zespołem. - Komanda ilə əməkdaşlığa dəyər verirəm.
+•  wrażenie - təsir, təəsurat
+Pierwsze wrażenie jest bardzo ważne. - İlk təəssürat çox vacibdir.
+•  przysięgać - and içmək
+Przysięgam, że dotrzymam obietnicy. - And içirəm ki, sözümü tutacağam.
+•  zarabiać - qazanmaq (pul)
+Zarabiam na życie jako nauczyciel. - Həyatımı müəllim olaraq qazanıram.
+•  podziękować - təşəkkür etmək
+Chciałem podziękować za pomoc. - Kömək üçün təşəkkür etmək istəyirdim.
+•  szczególnie - xüsusilə də
+Lubię sport, szczególnie piłkę nożną. - İdmanı, xüsusilə də futbolu sevirəm.
+•  złożyć - qatlamaq (paltarı)
+Po praniu muszę złożyć ubrania. - Yuyulandan sonra paltarları qatlamalıyam.
+•  przyglądać się - izləmək, baxmaq
+Lubię przyglądać się zachodowi słońca. - Gün batımını izləməyi xoşlayıram.
+•  śliczny - sevimli
+To śliczne dziecko ma piękny uśmiech. - Bu sevimli uşağın gözəl gülüşü var.
+•  zabawka - oyuncaq
+Moje dziecko ma nową zabawkę. - Övladımın yeni oyuncağı var.
+•  pożyczyć - borc vermək
+Mogę ci pożyczyć trochę pieniędzy. - Sənə bir az pul borc verə bilərəm.
+•  narzędzie - alət (instrument)
+Potrzebuję narzędzi do naprawy roweru. - Velosipedi təmir etmək üçün alətlərə ehtiyacım var.
+•  ogród - bağça
+Mam piękny ogród pełen kwiatów. - Güllərlə dolu gözəl bir bağçam var.
+•  bułka - bulka (çörək növü)
+Na śniadanie zjem bułkę z masłem. - Səhər yeməyində kərə yağlı bulka yeyəcəyəm.
+•  szaleć - çılğınlaşmaq, dəli olmaq
+Dzieci szaleją na placu zabaw. - Uşaqlar oyun meydançasında çılğınlaşıblar.
+•  zasypiać - yuxuya getmək
+Zasypiam szybko, gdy jestem zmęczony. - Yorğun olduğumda tez yuxuya gedirəm.
+•  zatrudnić - işə almaq (kimisə)
+Firma zatrudniła nowego pracownika. - Şirkət yeni işçi işə aldı.
+•  wycieczka - gəzinti
+Jedziemy na wycieczkę w góry. - Dağlara gəzintiyə gedirik.
+•  korepetycja - özəl dərs
+Biorę korepetycje z matematyki. - Riyaziyyatdan özəl dərs alıram.
+•  opiekować się - qayğısına qalmaq
+Opiekuję się moją babcią. - Nənəmin qayğısına qalıram.
+•  wysoki - yüksək
+Ta góra jest bardzo wysoka. - Bu dağ çox yüksəkdir.
+•  stary - köhnə
+Ten dom jest bardzo stary. - Bu ev çox köhnədir.
+•  święty - müqəddəs
+To jest święte miejsce. - Bu müqəddəs bir yerdir.
+•  duży - böyük
+Ten pies jest naprawdę duży. - Bu it həqiqətən böyükdür.
+•  mały - balaca
+To jest bardzo małe dziecko. - Bu çox balaca bir uşaqdır.
+•  narodowy - milli
+To jest symbol narodowy. - Bu milli bir simvoldur.
+•  młody - gənc
+On jest bardzo młody. - O, çox gəncdir.
+•  czarny - qara
+To jest czarny kot. - Bu qara pişikdir.
+•  długi - uzun
+Ta droga jest bardzo długa. - Bu yol çox uzundur.
+•  ważny - mühüm
+To jest ważna decyzja. - Bu mühüm bir qərardır.
+•  biały - ağ
+To jest biały kwiat. - Bu ağ çiçəkdir.
+•  prawdziwy - gerçək
+To jest prawdziwa historia. - Bu gerçək bir hekayədir.
+•  najlepszy - ən yaxşı
+On jest najlepszym uczniem. - O, ən yaxşı şagirddir.
+•  poprawny - düz (cavab)
+To jest poprawna odpowiedź. - Bu, doğru cavabdır.
+•  publiczny - ictimai
+To jest publiczny park. - Bu ictimai bir parqdır.
+•  pewny - əmin
+Jestem pewny swojego wyboru. - Seçimimdən əminəm.
+•  niski - aşağı (bal)
+Ma bardzo niski wynik. - Onun çox aşağı nəticəsi var.
+•  wcześnie - əvvəl
+On przyszedł bardzo wcześnie. - O, çox erkən gəldi.
+•  w stanie - qadir
+Jest w stanie to zrobić. - O bunu etməyə qadirdir.
+•  człowiek - insan
+To jest dobry człowiek. - Bu yaxşı bir insandır.
+•  lokalny - yerli
+To jest lokalna restauracja. - Bu yerli bir restorandır.
+•  późno - gec
+Wrócił bardzo późno. - O, çox gec qayıtdı.
+•  trudny - çətin
+To jest trudne zadanie. - Bu çətin bir tapşırıqdır.
+•  większość - əksəriyyət
+Większość ludzi tak myśli. - Əksəriyyət bu cür düşünür.
+•  lepszy - daha yaxşı
+Ten wynik jest lepszy. - Bu nəticə daha yaxşıdır.
+•  mocny - güclü
+On jest bardzo mocny. - O, çox güclüdür.
+•  możliwy - mümkün
+To jest możliwe do wykonania. - Bu yerinə yetirmək mümkündür.
+•  bezpłatny - pulsuz
+Ten bilet jest bezpłatny. - Bu bilet pulsuzdur.
+•  wolny - azad
+On jest teraz wolny człowiek. - O, indi azad insandır.
+•  wojsko - ordu
+Wojsko jest gotowe do akcji. - Ordu fəaliyyətə hazırdır.
+•  międzynarodowy - beynəlxalq
+To jest międzynarodowe lotnisko. - Bu beynəlxalq hava limanıdır.
+•  w porządku - yaxşı, qaydasında
+Wszystko jest w porządku. - Hər şey qaydasındadır.
+•  grzywna - cərimə
+Musiał zapłacić grzywnę. - O, cərimə ödəməli oldu.
+•  cały - bütöv (entire)
+Przebył cały dystans. - O, bütün məsafəni qət etdi.
+•  pełny - dolu
+Ten pokój jest pełny ludzi. - Bu otaq insanlarla doludur.
+•  specjalny - xüsusi
+To jest specjalne wydarzenie. - Bu xüsusi bir tədbirdir.
+•  łatwy - asan
+To jest bardzo łatwe zadanie. - Bu çox asan tapşırıqdır.
+•  ostatni - son, axırıncı
+To jest jego ostatnia szansa. - Bu onun son şansıdır.
+•  pewien - müəyyən
+Jestem pewien tego faktu. - Bu faktdan əminəm.
+•  osobisty - şəxsi
+To jest jego osobista sprawa. - Bu onun şəxsi işidir.
+•  pracownicy - işçi
+Pracownicy wrócili z przerwy. - İşçilər fasilədən qayıtdılar.
+•  otwarty - açıq (qapı)
+Drzwi są otwarte. - Qapı açıqdır.
+•  czerwony - qırmızı
+To jest czerwony samochód. - Bu qırmızı bir maşındır.
+•  dostępny - mövcud
+Ten produkt jest dostępny online. - Bu məhsul onlayn mövcuddur.
+•  prawdopodobnie - yəqin ki, ehtimal ki
+Prawdopodobnie przyjdzie później. - Yəqin ki, sonra gələr.
+•  krótki - qısa
+To był krótki spacer. - Bu qısa bir gəzinti idi.
+•  pojedynczy - tək
+To jest pojedynczy egzemplarz. - Bu tək bir nüsxədir.
+•  leczenie - müalicə
+On potrzebuje leczenia. - Onun müalicəyə ehtiyacı var.
+•  aktualny - hazırki
+To są aktualne informacje. - Bunlar hazırki məlumatlardır.
+•  zły - səhv, yalnış
+To jest zły adres. - Bu yalnış bir ünvandır.
+•  popełnić błąd - səhv etmək
+On popełnił błąd w pracy. - O, işində səhv etdi.
+•  prywatny - özəl
+To jest prywatna rozmowa. - Bu özəl bir söhbətdir.
+•  przeszłość - keçmiş
+Przeszłość nie może być zmieniona. - Keçmiş dəyişdirilə bilməz.
+•  obcokrajowiec - əcnəbi
+Ten obcokrajowiec mówi po polsku. - Bu əcnəbi polyakca danışır.
+•  zagraniczny - xarici (dil)
+Uczy się zagranicznego języka. - O, xarici bir dil öyrənir.
+•  powszechny - yayğın (olaraq)
+To jest powszechny problem. - Bu, yayğın bir problemdir.
+•  wspólny - ortaq
+Mamy wspólny projekt. - Bizim ortaq bir layihəmiz var.
+•  biedny - kasıb
+On jest biednym człowiekiem. - O, kasıb bir insandır.
+•  znaczący - mühüm, əhəmiyyətli
+To była znacząca decyzja. - Bu mühüm bir qərar idi.
+•  podobny - oxşar
+To jest podobny przypadek. - Bu oxşar bir haldır.
+•  gorący - isti
+To jest gorąca herbata. - Bu isti çaydır.
+•  martwy - ölü
+Ten kwiat jest martwy. - Bu çiçək ölüdür.
+•  centralny - mərkəzi
+To jest centralny punkt miasta. - Bu, şəhərin mərkəzi nöqtəsidir.
+•  szczęśliwy - xoşbəxt
+Ona jest bardzo szczęśliwa. - O, çox xoşbəxtdir.
+•  poważny - ciddi
+Musisz być poważny w tej sprawie. - Bu məsələdə ciddi olmalısan.
+•  gotowy - hazır
+Jestem gotowy do wyjścia. - Mən çıxmağa hazıram.
+•  prosty - sadə
+To jest bardzo prosty problem. - Bu, çox sadə bir problemdir.
+•  lewa - sol
+Skręć w lewo na rogu. - Küncdə sola dön.
+•  ogólny - ümumi
+To jest ogólny przegląd sytuacji. - Bu, vəziyyətin ümumi icmalıdır.
+•  środowisko - mühit
+Musimy chronić środowisko. - Biz mühiti qorumalıyıq.
+•  konto - hesab (bank)
+Otworzyłem nowe konto w banku. - Mən bankda yeni bir hesab açdım.
+•  niebieski - mavi
+Lubię niebieski kolor. - Mən mavi rəngi sevirəm.
+•  ptak - quş
+Ten ptak jest piękny. - Bu quş gözəldir.
+•  ciemny - qaranlıq
+W tym pokoju jest ciemno. - Bu otaqda qaranlıqdı.
+•  zamykać - bağlamaq
+Zamykać drzwi przed wyjściem. - Çıxmazdan əvvəl qapını bağlamaq.
+•  zamknięty - bağlı
+Sklep jest zamknięty dzisiaj. - Dükkan bu gün bağlıdır.
+•  blisko - yaxın
+Mieszkam blisko szkoły. - Mən məktəbə yaxın yaşayıram.
+•  daleko - uzaq
+To jest zbyt daleko. - Bu, çox uzandadır.
+•  religia - din
+Religia odgrywa ważną rolę w życiu. - Din həyatda mühüm rol oynayır.
+•  modlić się - ibadət etmək
+Ona lubi modlić się rano. - O, səhər ibadət etməyi sevir.
+•  zimny - soyuq
+Woda jest zimna dzisiaj. - Su bu gün soyuqdur.
+•  ostatni - sonuncu
+To jest ostatni autobus na dzisiaj. - Bu, bu gün üçün sonuncu avtobusdur.
+•  główny - əsas
+Główny cel to osiągnięcie sukcesu. - Əsas məqsəd uğura nail olmaqdır.
+•  zielony - yaşıl
+Lubię zielone liście na drzewach. - Mən ağacların yaşıl yarpaqlarını sevirəm.
+•  żółty - sarı
+Żółte kwiaty są piękne wiosną. - Sarı çiçəklər yazda gözəldir.
+•  piękny - gözəl
+To jest piękny widok z góry. - Bu dağdan gözəl mənzərədir.
+•  miły - xoş, qəşəng
+To był bardzo miły dzień. - Bu, çox xoş bir gün idi.
+•  ogromny - nəhəng
+Ten budynek jest ogromny. - Bu bina nəhəngdir.
+•  rząd - cərgə
+Ustawiliśmy rząd krzeseł w sali. - Biz zalda oturacaqları cərgə ilə qoyduq.
+•  słońce - günəş
+Słońce świeci jasno dzisiaj. - Günəş bu gün parlayır.
+•  wózek widłowy - forklift
+Wózek widłowy jest potrzebny do transportu. - Forklift nəqliyyat üçün lazımdır.
+•  wywrotka - kamaz, yük maşını
+Wywrotka przywiozła materiały budowlane. - Kamaz tikinti materiallarını gətirdi.
+•  uszkodzony - xarab
+Ten sprzęt jest uszkodzony. - Bu avadanlıq xarabdır.
+•  rozbić - qırmaq
+Uważaj, żeby nie rozbić talerza! - Diqqət et, boşqabı qırma!
+•  przerwa - fasilə
+Mamy przerwę na kawę. - Bizim qəhvə fasiləmiz var.
+•  światło - işıq
+Proszę zapalić światło w pokoju. - Zəhmət olmasa, otaqda işığı yandır.
+•  reflektory - fara, projektor
+Reflektory samochodu były zgaszone. - Maşının faraları sönük idi.
+•  deszcz - yağış
+Dzisiaj pada deszcz. - Bu gün yağış yağır.
+•  kresło - oturacaq
+Kupiłem nowe kresło do biura. - Mən ofis üçün yeni bir oturacaq aldım.
+•  nazwisko - soyad
+Jakie jest twoje nazwisko? - Sənin soyadın nədir?
+•  pobyt - qalmaq (residency)
+Mój pobyt w tym hotelu był krótki. - Bu oteldəki qalmağım qısa idi.
+•  znaleźć - tapmaq
+Udało mi się znaleźć klucze. - Mən açarları tapmağı bacardım.
+•  mogę - olar mı
+Czy mogę ci w tym pomóc? - Mən buna kömək edə bilərəmmi?
+•  powinien - /malı, məli
+Powinienem zadzwonić do mamy. - Mən anamı çağırmalıyam.
+•  zadzwonić - zəng etmək
+Muszę zadzwonić do lekarza. - Mən həkimə zəng etməliyəm.
+•  próbować - cəhd etmək
+Powinieneś próbować nowych rzeczy. - Sən yeni şeylər cəhd etməlisən.
+•  zapytać - soruşmaq
+Chciałem zapytać o drogę. - Mən yolda soruşmaq istəyirdim.
+•  potrzebować - ehtiyacı olmaq
+Potrzebuję więcej czasu na naukę. - Mənim öyrənmək üçün daha çox vaxta ehtiyacım var.
+•  czuć - hiss etmək
+Czuję się dobrze dzisiaj. - Bu gün özümü yaxşı hiss edirəm.
+•  ból - ağrı
+Mam silny ból głowy. - Mənim başımda güclü ağrı var.
+•  stać się - olmaq (become)
+Chcę stać się lekarzem w przyszłości. - Mən gələcəkdə həkim olmaq istəyirəm.
+•  wychodzić - tərk etmək
+Muszę wychodzić z domu o siódmej. - Mən evdən yeddidə tərk etməliyəm.
+•  położyć - qoymaq
+Połóż książkę na stole. - Kitabı masanın üzərinə qoy.
+•  znaczyć - məna vermək
+To słowo znaczy "miłość". - Bu söz "sevgi" deməkdir.
+•  trzymać - saxlamaq
+Trzymaj się mocno! - Sıx tut!
+•  lodówka - soyuducu
+Mamy nową lodówkę w kuchni. - Bizim mətbəxdə yeni soyuducumuz var.
+•  pozwolić - icazə vermək
+Musisz pozwolić mu to zrobić. - Sən ona bunu etməyə icazə verməlisən.
+•  zacynać - başlamaq
+Musimy zacząć teraz. - Biz indi başlamaq zorundayıq.
+•  wydać się - görünmək
+To wydaje się być trudne. - Bu çətin görünür.
+•  pomóc - kömək
+Chcę ci pomóc w tej sprawie. - Bu məsələdə sənə kömək etmək istəyirəm.
+•  rozmawiać - danışmaq
+Rozmawiałem z nim przez godzinę. - Mən onunla bir saat danışdım.
+•  skręcić - dönmək
+Skręć w lewo na następnym skrzyżowaniu. - Növbəti dönmədə sola dön.
+•  zacząć - başlatmaq
+Muszę zacząć przygotowania na święta. - Mən bayram üçün hazırlıqlara başlamaq zorundayam.
+•  pokazać - göstərmək
+Mogę ci pokazać moje zdjęcia. - Mən sənə şəkillərimi göstərə bilərəm.
+•  słyszeć - eşitmək
+Słyszałem, że przyjeżdżasz jutro. - Mən eşitdim ki, sən sabah gəlirsən.
+•  grać - oynamaq
+Lubię grać w piłkę nożną. - Mən futbol oynamağı sevirəm.
+•  biegać - qaçmaq
+Codziennie biegam rano. - Hər gün səhər qaçıram.
+•  przenosić - daşımaq
+Pomóż mi przenieść te pudełka. - Mənə bu qutuları daşımada kömək et.
+•  mieszkać - yaşamaq
+Mieszkam w Warszawie. - Mən Varşavada yaşayıram.
+•  wierzyć - güvənmək
+Wierzę w twoje umiejętności. - Mən sənin bacarıqlarına güvənirəm.
+•  przytrzymać - tutmaq (qapını)
+Przytrzymaj drzwi, proszę! - Qapını tut, zəhmət olmasa!
+•  przynieść - gətirmək
+Przynieś mi szklankę wody. - Mənə bir stəkan su gətir.
