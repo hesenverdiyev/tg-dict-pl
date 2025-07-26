@@ -1,15 +1,3 @@
-•  zdarzyć się - baş vermək
-Coś dziwnego zdarzyło się w nocy. - Gecə qəribə bir şey baş verdi.
-•  pisać - yazmaq
-Piszę nową książkę o podróżach. - Mən səyahətlər haqqında yeni bir kitab yazıram.
-•  dostarczać - təmin etmək
-Firma dostarcza jedzenie codziennie. - Şirkət hər gün yeməyi təmin edir.
-•  usiąść - oturmaq
-Usiądź wygodnie na kanapie. - Divanda rahat otur.
-•  wstań - ayağa qalx
-Wstań i pomóż mi! - Ayağa qalx və mənə kömək et!
-•  zgubić - itirmək
-Zgubiłem klucze do domu. - Evimin açarını itirmişəm.
 •  przegrać - uduzmaq
 Przegraliśmy mecz wczoraj. - Dünən oyunu uduzduq.
 •  płacić - ödəmək
@@ -2052,3 +2040,15 @@ Wierzę w twoje umiejętności. - Mən sənin bacarıqlarına güvənirəm.
 Przytrzymaj drzwi, proszę! - Qapını tut, zəhmət olmasa!
 •  przynieść - gətirmək
 Przynieś mi szklankę wody. - Mənə bir stəkan su gətir.
+•  zdarzyć się - baş vermək
+Coś dziwnego zdarzyło się w nocy. - Gecə qəribə bir şey baş verdi.
+•  pisać - yazmaq
+Piszę nową książkę o podróżach. - Mən səyahətlər haqqında yeni bir kitab yazıram.
+•  dostarczać - təmin etmək
+Firma dostarcza jedzenie codziennie. - Şirkət hər gün yeməyi təmin edir.
+•  usiąść - oturmaq
+Usiądź wygodnie na kanapie. - Divanda rahat otur.
+•  wstań - ayağa qalx
+Wstań i pomóż mi! - Ayağa qalx və mənə kömək et!
+•  zgubić - itirmək
+Zgubiłem klucze do domu. - Evimin açarını itirmişəm.
