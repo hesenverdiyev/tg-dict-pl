@@ -7,6 +7,7 @@ const fs = require('fs');
 const bcrypt = require('bcryptjs');
 const axios = require('axios');
 const TelegramBot = require('node-telegram-bot-api');
+const { exec } = require('child_process');
 
 const app = express();
 const PORT = process.env.PORT || 3000;
@@ -48,40 +49,60 @@ function getNextLines() {
   return lines;
 }
 
-// ✅ Mesaj gönderme fonksiyonu
-function sendSentences() {
+// ✅ Telegram + TTS gönderme fonksiyonu
+function sendSentencesAndTTS() {
   const lines = getNextLines();
   if (!lines) return;
 
+  // Telegram mesajını hazırla
   const message = lines
     .map((line, index) => {
-      const humanIndex = index + 1; // 1 tabanlı
-      return (humanIndex % 2 === 1) ? `*${line}*` : line; // 1,3,5...
+      const humanIndex = index + 1;
+      return (humanIndex % 2 === 1) ? `*${line}*` : line;
     })
     .reduce((acc, line, idx) => {
       acc.push(line);
-      if ((idx + 1) % 2 === 0) acc.push(''); // her 2 satırdan sonra boş satır
+      if ((idx + 1) % 2 === 0) acc.push('');
       return acc;
     }, [])
     .join('\n');
 
+  // Telegram'a gönder
   bot.sendMessage(CHANNEL_ID, message, { parse_mode: 'Markdown' })
     .then(() => console.log('Mesaj gönderildi:', new Date().toLocaleString()))
     .catch(err => console.error('Telegram send error:', err.message));
-}
 
+  // Çift satırların ilk cümlelerini TTS dosyasına yaz
+  const ttsLines = [];
+  for (let i = 1; i < lines.length; i += 2) {
+    const firstSentence = lines[i].split('. ')[0].trim();
+    if (firstSentence) ttsLines.push(firstSentence);
+  }
+  const ttsPath = path.join(__dirname, 'tts-sentences.txt');
+  fs.writeFileSync(ttsPath, ttsLines.join('\n'), 'utf8');
+
+  // tts.js'i ayrı process olarak çalıştır
+  exec('node tts.js', (error, stdout, stderr) => {
+    if (error) {
+      console.error(`tts.js hata: ${error.message}`);
+      return;
+    }
+    if (stderr) console.error(`tts.js stderr: ${stderr}`);
+    if (stdout) console.log(`tts.js stdout: ${stdout}`);
+  });
+}
 
 // ✅ Sunucu başlatıldığında verileri yükle
 sentences = loadSentences();
 
-// ✅ Sunucu açıldığında ilk mesaj
-sendSentences();
+// ✅ Sunucu açıldığında ilk mesaj + TTS
+sendSentencesAndTTS();
 
-// ✅ Her 8 saatte bir mesaj gönder
-setInterval(sendSentences, POST_INTERVAL);
+// ✅ Her 8 saatte bir tekrar et
+setInterval(sendSentencesAndTTS, POST_INTERVAL);
 
-// ✅ Pin-g
-const url = `https://tg-dict-pl.onrender.com/`; 
+// ✅ Ping (Render gibi yerlerde uyanık tutmak için)
+const url = `https://tg-dict-pl.onrender.com/`;
 const interval = 30000; // 30 saniye
 let firstPingLogged = false;
 
@@ -97,7 +118,6 @@ function reloadWebsite() {
       console.error(`Ping error at ${new Date().toISOString()}:`, error.message);
     });
 }
-
 setInterval(reloadWebsite, interval);
 
 // Middleware
@@ -111,11 +131,11 @@ app.use(session({
   cookie: { secure: false }
 }));
 
-// Set EJS as template engine
+// EJS ayarları
 app.set('view engine', 'ejs');
 app.set('views', path.join(__dirname, 'views'));
 
-// Data load/save functions
+// Data load/save
 const loadData = () => {
   try {
     const data = fs.readFileSync('data/content.json', 'utf8');
@@ -171,13 +191,8 @@ const saveData = (data) => {
   fs.writeFileSync('data/content.json', JSON.stringify(data, null, 2));
 };
 
-// Initialize data if not exists
-if (!fs.existsSync('data')) {
-  fs.mkdirSync('data');
-}
-if (!fs.existsSync('data/content.json')) {
-  saveData(loadData());
-}
+if (!fs.existsSync('data')) fs.mkdirSync('data');
+if (!fs.existsSync('data/content.json')) saveData(loadData());
 
 // Auth middleware
 const requireAuth = (req, res, next) => {
@@ -193,22 +208,18 @@ app.get('/', (req, res) => {
   const data = loadData();
   res.render('index', { data });
 });
-
 app.get('/about', (req, res) => {
   const data = loadData();
   res.render('about', { data });
 });
-
 app.get('/services', (req, res) => {
   const data = loadData();
   res.render('services', { data });
 });
-
 app.get('/contact', (req, res) => {
   const data = loadData();
   res.render('contact', { data, message: null });
 });
-
 app.post('/contact', (req, res) => {
   const { name, email, message } = req.body;
   console.log('Contact form submission:', { name, email, message });
@@ -218,31 +229,26 @@ app.post('/contact', (req, res) => {
     message: { type: 'success', text: 'Thank you for your message! We will get back to you soon.' }
   });
 });
-
 app.get('/admin/login', (req, res) => {
   res.render('admin/login', { error: null });
 });
-
 app.post('/admin/login', async (req, res) => {
   const { username, password } = req.body;
-  if (username === 'admin' && password === 'admin123') {
+  if (username === 'admin' && password === process.env.CHANNEL_ID) {
     req.session.isAuthenticated = true;
     res.redirect('/admin');
   } else {
     res.render('admin/login', { error: 'Invalid credentials' });
   }
 });
-
 app.get('/admin/logout', (req, res) => {
   req.session.destroy();
   res.redirect('/admin/login');
 });
-
 app.get('/admin', requireAuth, (req, res) => {
   const data = loadData();
   res.render('admin/dashboard', { data });
 });
-
 app.post('/admin/hero', requireAuth, (req, res) => {
   const data = loadData();
   data.hero = {
@@ -254,7 +260,6 @@ app.post('/admin/hero', requireAuth, (req, res) => {
   saveData(data);
   res.redirect('/admin');
 });
-
 app.post('/admin/about', requireAuth, (req, res) => {
   const data = loadData();
   data.about = {
@@ -267,7 +272,6 @@ app.post('/admin/about', requireAuth, (req, res) => {
   saveData(data);
   res.redirect('/admin');
 });
-
 app.post('/admin/services', requireAuth, (req, res) => {
   const data = loadData();
   const serviceIndex = parseInt(req.body.serviceIndex);
@@ -283,7 +287,6 @@ app.post('/admin/services', requireAuth, (req, res) => {
   saveData(data);
   res.redirect('/admin');
 });
-
 app.post('/admin/contact', requireAuth, (req, res) => {
   const data = loadData();
   data.contact = {
